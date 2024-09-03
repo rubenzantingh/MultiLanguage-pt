@@ -18830,7 +18830,7 @@ MultiLanguageNpcData['pt'][26704] = {name = "Defensor Drakkari", subname = nil}
 MultiLanguageNpcData['pt'][26705] = {name = "Discípulo da Planície Nevada", subname = nil}
 MultiLanguageNpcData['pt'][26706] = {name = "Urso-cinzento Infectado", subname = nil}
 MultiLanguageNpcData['pt'][26707] = {name = "Litoko Totem de Gelo", subname = "Armaduras"}
-MultiLanguageNpcData['pt'][26708] = {name = "Aldeão do Arroio Prateado", subname = nil}
+MultiLanguageNpcData['pt'][26708] = {name = "Aldeão do Arroio Prateado Recordado", subname = nil}
 MultiLanguageNpcData['pt'][26709] = {name = "Parru Casco Gélido", subname = "Hospedagem"}
 MultiLanguageNpcData['pt'][26711] = {name = "Mamute Ferido", subname = nil}
 MultiLanguageNpcData['pt'][26712] = {name = "Alvo de Canal de Cristal", subname = nil}
@@ -42398,6 +42398,7 @@ MultiLanguageNpcData['pt'][56854] = {name = "Terroraço de Elite do Crepúsculo"
 MultiLanguageNpcData['pt'][56855] = {name = "Draco de Ataque do Crepúsculo", subname = nil}
 MultiLanguageNpcData['pt'][56856] = {name = "Serpente Brincalhona Lazúli", subname = nil}
 MultiLanguageNpcData['pt'][56858] = {name = "Serpente Brincalhona Carmesim", subname = nil}
+MultiLanguageNpcData['pt'][56859] = {name = "Serpente Brincalhona Esmeralda", subname = nil}
 MultiLanguageNpcData['pt'][56860] = {name = "Serpente Brincalhona Dourada", subname = nil}
 MultiLanguageNpcData['pt'][56861] = {name = "Águia", subname = nil}
 MultiLanguageNpcData['pt'][56862] = {name = "Brigão Hozen Bêbado", subname = nil}
@@ -46584,6 +46585,7 @@ MultiLanguageNpcData['pt'][63080] = {name = "Jarson Sempiterno", subname = "Ades
 MultiLanguageNpcData['pt'][63081] = {name = "Recuperador Shao-Tien", subname = nil}
 MultiLanguageNpcData['pt'][63082] = {name = "Come-carne Pálida Lâmina", subname = nil}
 MultiLanguageNpcData['pt'][63083] = {name = "Will Larsons", subname = "Adestramento de Batalha"}
+MultiLanguageNpcData['pt'][63084] = {name = "Poe", subname = "Mascote de Batalha"}
 MultiLanguageNpcData['pt'][63085] = {name = "Azougue", subname = "Mascote de Batalha"}
 MultiLanguageNpcData['pt'][63086] = {name = "Carpeto", subname = "Adestramento de Batalha"}
 MultiLanguageNpcData['pt'][63087] = {name = "Estátua Ritualística Shao-Tien", subname = nil}

@@ -21758,7 +21758,6 @@ MultiLanguageNpcData['pt'][90472] = {name = "Invasor Guardião Colérico", subna
 MultiLanguageNpcData['pt'][90473] = {name = "Tatty Bitatty", subname = "Oficial da Corrida"}
 MultiLanguageNpcData['pt'][90474] = {name = "Caçadora de Demônios", subname = "Illidari"}
 MultiLanguageNpcData['pt'][90475] = {name = "Garona Meiorken", subname = nil}
-MultiLanguageNpcData['pt'][90476] = {name = "Runas, o Humilhado", subname = nil}
 MultiLanguageNpcData['pt'][90477] = {name = "Glóbulo de Sangue", subname = nil}
 MultiLanguageNpcData['pt'][90478] = {name = "Tropas Sargerei Derrotadas", subname = nil}
 MultiLanguageNpcData['pt'][90479] = {name = "Runas Guardian Escort Credit", subname = nil}
@@ -34705,7 +34704,7 @@ MultiLanguageNpcData['pt'][105423] = {name = "Fênix", subname = nil}
 MultiLanguageNpcData['pt'][105424] = {name = "Froijla Porta-machado", subname = nil}
 MultiLanguageNpcData['pt'][105425] = {name = "Bunny", subname = nil}
 MultiLanguageNpcData['pt'][105426] = {name = "Boost Kill Credit", subname = nil}
-MultiLanguageNpcData['pt'][105427] = {name = "Totem da Fúria Celeste", subname = nil}
+MultiLanguageNpcData['pt'][105427] = {name = "Totem da Ira", subname = nil}
 MultiLanguageNpcData['pt'][105432] = {name = "Lafayla Bravalâmina", subname = nil}
 MultiLanguageNpcData['pt'][105433] = {name = "Xista Silenciosa", subname = nil}
 MultiLanguageNpcData['pt'][105434] = {name = "Kill Credit: Rune of Portals Delivered", subname = nil}
