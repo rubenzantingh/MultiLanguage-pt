@@ -6397,7 +6397,6 @@ MultiLanguageNpcData['pt'][72788] = {name = "Defensor Infundido em Sha", subname
 MultiLanguageNpcData['pt'][72789] = {name = "Cordana Vilcanto", subname = "Guardiã"}
 MultiLanguageNpcData['pt'][72791] = {name = "Corrupção Remanescente", subname = nil}
 MultiLanguageNpcData['pt'][72792] = {name = "Espreitador iInvisível do Sha", subname = nil}
-MultiLanguageNpcData['pt'][72793] = {name = "Razuun", subname = "Concílio das Sombras"}
 MultiLanguageNpcData['pt'][72794] = {name = "5.4 Tradeskills - Cooking Noodle Cart - Tier 2 - 10p - Vendor", subname = nil}
 MultiLanguageNpcData['pt'][72795] = {name = "Carrinho de Macarrão Luxo", subname = nil}
 MultiLanguageNpcData['pt'][72796] = {name = "5.4 Tradeskills - Cooking Noodle Cart - Tier 3 - 10p - Vendor", subname = nil}
@@ -21758,6 +21757,7 @@ MultiLanguageNpcData['pt'][90472] = {name = "Invasor Guardião Colérico", subna
 MultiLanguageNpcData['pt'][90473] = {name = "Tatty Bitatty", subname = "Oficial da Corrida"}
 MultiLanguageNpcData['pt'][90474] = {name = "Caçadora de Demônios", subname = "Illidari"}
 MultiLanguageNpcData['pt'][90475] = {name = "Garona Meiorken", subname = nil}
+MultiLanguageNpcData['pt'][90476] = {name = "Runas, o Humilhado", subname = nil}
 MultiLanguageNpcData['pt'][90477] = {name = "Glóbulo de Sangue", subname = nil}
 MultiLanguageNpcData['pt'][90478] = {name = "Tropas Sargerei Derrotadas", subname = nil}
 MultiLanguageNpcData['pt'][90479] = {name = "Runas Guardian Escort Credit", subname = nil}
@@ -42355,7 +42355,6 @@ MultiLanguageNpcData['pt'][113703] = {name = "Magus Legalista", subname = nil}
 MultiLanguageNpcData['pt'][113704] = {name = "Small Kill Credit", subname = nil}
 MultiLanguageNpcData['pt'][113705] = {name = "Sicofanta Legalista", subname = nil}
 MultiLanguageNpcData['pt'][113706] = {name = "Astralista da Vigia Crepuscular", subname = nil}
-MultiLanguageNpcData['pt'][113707] = {name = "Astralista da Vigia Crepuscular", subname = nil}
 MultiLanguageNpcData['pt'][113708] = {name = "Controlador da Fenda Illidari", subname = nil}
 MultiLanguageNpcData['pt'][113709] = {name = "Tempestária Mylra", subname = nil}
 MultiLanguageNpcData['pt'][113710] = {name = "Núcleo da Fenda", subname = nil}
