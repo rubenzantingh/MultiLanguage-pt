@@ -10192,7 +10192,6 @@ MultiLanguageNpcData['pt'][16501] = {name = "Aurelon", subname = "Treinamento d
 MultiLanguageNpcData['pt'][16502] = {name = "Zalduun", subname = "Treinamento de Sacerdotes"}
 MultiLanguageNpcData['pt'][16503] = {name = "Kore", subname = "Treinamento de Guerreiros"}
 MultiLanguageNpcData['pt'][16504] = {name = "Protetor Arcano", subname = nil}
-MultiLanguageNpcData['pt'][16505] = {name = "Seguidor de Naxxramas", subname = nil}
 MultiLanguageNpcData['pt'][16506] = {name = "Adorador de Naxxramas", subname = nil}
 MultiLanguageNpcData['pt'][16507] = {name = "Sentinela da Mão Despedaçada", subname = nil}
 MultiLanguageNpcData['pt'][16508] = {name = "Cavalo Argênteo", subname = nil}
@@ -12801,7 +12800,6 @@ MultiLanguageNpcData['pt'][19351] = {name = "Daggle Moldaferro", subname = "Arma
 MultiLanguageNpcData['pt'][19352] = {name = "Dreg Varrenuvem", subname = "Hospedagem"}
 MultiLanguageNpcData['pt'][19353] = {name = "Guarda Martelo Feroz", subname = nil}
 MultiLanguageNpcData['pt'][19354] = {name = "Aezeth, o Impiedoso", subname = "Servo do Traidor"}
-MultiLanguageNpcData['pt'][19355] = {name = "Peão de Lua Negra", subname = nil}
 MultiLanguageNpcData['pt'][19356] = {name = "Errante do Caos", subname = nil}
 MultiLanguageNpcData['pt'][19357] = {name = "Aparição Caótica Turva", subname = nil}
 MultiLanguageNpcData['pt'][19358] = {name = "Transportador da Legião: Alfa (Aliança)", subname = nil}
@@ -23801,6 +23799,7 @@ MultiLanguageNpcData['pt'][37761] = {name = "Dona Xepa", subname = "Armaduras"}
 MultiLanguageNpcData['pt'][37762] = {name = "Beto \"Bufunfa\" McTroco", subname = "Mercadorias Diversas"}
 MultiLanguageNpcData['pt'][37774] = {name = "Arquimaga Elandra", subname = "Kirin Tor"}
 MultiLanguageNpcData['pt'][37776] = {name = "Aprendiz Nelphi", subname = "Kirin Tor"}
+MultiLanguageNpcData['pt'][37779] = {name = "Patrulheira Sombria Loralen", subname = nil}
 MultiLanguageNpcData['pt'][37780] = {name = "Patrulheira Sombria Vorel", subname = nil}
 MultiLanguageNpcData['pt'][37804] = {name = "Balão de Jaka'Cola", subname = nil}
 MultiLanguageNpcData['pt'][37810] = {name = "Totem de Torrente Curativa", subname = nil}
