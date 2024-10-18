@@ -10192,6 +10192,7 @@ MultiLanguageNpcData['pt'][16501] = {name = "Aurelon", subname = "Treinamento d
 MultiLanguageNpcData['pt'][16502] = {name = "Zalduun", subname = "Treinamento de Sacerdotes"}
 MultiLanguageNpcData['pt'][16503] = {name = "Kore", subname = "Treinamento de Guerreiros"}
 MultiLanguageNpcData['pt'][16504] = {name = "Protetor Arcano", subname = nil}
+MultiLanguageNpcData['pt'][16505] = {name = "Seguidor de Naxxramas", subname = nil}
 MultiLanguageNpcData['pt'][16506] = {name = "Adorador de Naxxramas", subname = nil}
 MultiLanguageNpcData['pt'][16507] = {name = "Sentinela da Mão Despedaçada", subname = nil}
 MultiLanguageNpcData['pt'][16508] = {name = "Cavalo Argênteo", subname = nil}
@@ -12800,6 +12801,7 @@ MultiLanguageNpcData['pt'][19351] = {name = "Daggle Moldaferro", subname = "Arma
 MultiLanguageNpcData['pt'][19352] = {name = "Dreg Varrenuvem", subname = "Hospedagem"}
 MultiLanguageNpcData['pt'][19353] = {name = "Guarda Martelo Feroz", subname = nil}
 MultiLanguageNpcData['pt'][19354] = {name = "Aezeth, o Impiedoso", subname = "Servo do Traidor"}
+MultiLanguageNpcData['pt'][19355] = {name = "Peão de Lua Negra", subname = nil}
 MultiLanguageNpcData['pt'][19356] = {name = "Errante do Caos", subname = nil}
 MultiLanguageNpcData['pt'][19357] = {name = "Aparição Caótica Turva", subname = nil}
 MultiLanguageNpcData['pt'][19358] = {name = "Transportador da Legião: Alfa (Aliança)", subname = nil}
