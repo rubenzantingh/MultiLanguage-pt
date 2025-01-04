@@ -13240,6 +13240,7 @@ MultiLanguageNpcData['pt'][19805] = {name = "Carcereiro Eclipsion", subname = ni
 MultiLanguageNpcData['pt'][19806] = {name = "Falangista Sangrento Eclipsion", subname = nil}
 MultiLanguageNpcData['pt'][19807] = {name = "Trilheiro Griscórdio", subname = nil}
 MultiLanguageNpcData['pt'][19808] = {name = "Mata-orc Griscórdio", subname = nil}
+MultiLanguageNpcData['pt'][19809] = {name = "Xamã Griscórdio", subname = nil}
 MultiLanguageNpcData['pt'][19810] = {name = "Etermago Griscórdio", subname = nil}
 MultiLanguageNpcData['pt'][19811] = {name = "Mestre de Batalhas Griscórdio", subname = nil}
 MultiLanguageNpcData['pt'][19812] = {name = "Informante Illidari", subname = nil}
