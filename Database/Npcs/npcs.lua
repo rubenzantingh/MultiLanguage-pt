@@ -29662,3 +29662,4 @@ MultiLanguageNpcData['pt'][222858] = {name = "Belisco, o Saqueador", subname = n
 MultiLanguageNpcData['pt'][224065] = {name = "Rapininha", subname = nil}
 MultiLanguageNpcData['pt'][228792] = {name = "Estaca Espreitadora de Magorja", subname = nil}
 MultiLanguageNpcData['pt'][232527] = {name = "Reven", subname = nil}
+MultiLanguageNpcData['pt'][232536] = {name = "Cobrinha Celeste Lenhosa", subname = nil}

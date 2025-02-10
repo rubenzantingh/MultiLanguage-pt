@@ -19659,6 +19659,20 @@ MultiLanguageSpellData['pt'][113836] = {name = "Trincheira Aquosa", additional_i
 MultiLanguageSpellData['pt'][114406] = {name = "Coibição", additional_info = nil}
 MultiLanguageSpellData['pt'][121805] = {name = "Montaria de Recrute um Amigo III", additional_info = "1.5 seg de lançamento\n[q]Evoca e dispensa uma Montaria de RUA III. Esta montaria muda de acordo com a sua perícia em montaria e com o local onde você está."}
 MultiLanguageSpellData['pt'][121820] = {name = "Noturnala Obsidiana", additional_info = "1.5 seg de lançamento\n[q]Transforma você em uma Noturnala Obsidiana, permitindo-lhe voar em alta velocidade e transportar um aliado nas costas. Esta é uma montaria voadora."}
+MultiLanguageSpellData['pt'][126236] = {name = "Escorregadio", additional_info = "Instantâneo\n[q]Esquiva aumentada em 963 por 15 sec."}
+MultiLanguageSpellData['pt'][126237] = {name = "Item - Efeito Secundário Esquiva", additional_info = "[q]Seus ataques têm chance de conceder a você 963 de esquiva por 15 sec. (15% de chance, 55 s de recarga)\n(Chance de ativar:15%, 55s de recarga)"}
+MultiLanguageSpellData['pt'][126266] = {name = "Esclarecimento", additional_info = "Instantâneo\n[q]Intelecto aumentado em 1926 por 10 sec."}
+MultiLanguageSpellData['pt'][126268] = {name = "Item - Efeito Secundário Intelecto", additional_info = "[q]Seus feitiços de cura têm chance de conceder 1926 de Intelecto por 10 sec.\n(Chance de ativar:10%, 30s de recarga)"}
+MultiLanguageSpellData['pt'][126467] = {name = "Energizar Mana", additional_info = "Alcance de 100m\nInstantâneo\n[q]Concede 5700 de mana."}
+MultiLanguageSpellData['pt'][126468] = {name = "Preço do Progresso - Item - Efeito Secundário Energizar Mana", additional_info = "[q]Seus feitiços de cura têm chance de conceder 5700 pontos de mana. (10% de chance, 55 s de recarga)\n(Chance de ativar:10%, 55s de recarga)"}
+MultiLanguageSpellData['pt'][126552] = {name = "Item - Efeito Secundário Agilidade", additional_info = "[q]Seus ataques têm chance de conceder a você 963 de Agilidade por 20 sec. (15% de chance, 55 s de recarga)\n(Chance de ativar:15%, 55s de recarga)"}
+MultiLanguageSpellData['pt'][126554] = {name = "Ágil", additional_info = "Instantâneo\n[q]Agilidade aumentada em 963 por 20 sec."}
+MultiLanguageSpellData['pt'][126582] = {name = "Poder Resoluto", additional_info = "Instantâneo\n[q]Aumenta em 963 a Força por 20 sec."}
+MultiLanguageSpellData['pt'][126583] = {name = "Item - Efeito Secundário Força", additional_info = "[q]Seus ataques podem conceder a você 963 de Força por 20 sec. (15% de chance, 55 s de recarga)\n(Chance de ativar:15%, 55s de recarga)"}
+MultiLanguageSpellData['pt'][126659] = {name = "Línguas Céleres", additional_info = "Instantâneo\n[q]Aceleração aumentada em 963 por 20 sec."}
+MultiLanguageSpellData['pt'][126660] = {name = "Item - Efeito Secundário Aceleração com Acertos de Feitiços", additional_info = "[q]Sempre que seus feitiços nocivos atingem, você tem chance de ganhar 963 de aceleração por 20 sec. (15% de chance, 115 s de recarga)\n(Chance de ativar:15%, 1.917min de recarga)"}
+MultiLanguageSpellData['pt'][133630] = {name = "Proficiência Refinada", additional_info = "Alcance de 40m\nInstantâneo\n[q]Aumenta em 2573 a taxa de maestria por 20 sec."}
+MultiLanguageSpellData['pt'][133631] = {name = "Item - Efeito Secundário Maestria em Ataques", additional_info = "[q]Quando seus ataques acertam, você tem chance de ganhar 0 de Maestria por until cancelled.\n(Chance de ativar:15%, 1.083min de recarga)"}
 MultiLanguageSpellData['pt'][158263] = {name = "Covarde", additional_info = nil}
 MultiLanguageSpellData['pt'][160597] = {name = "Criar Herança", additional_info = nil}
 MultiLanguageSpellData['pt'][171555] = {name = "Marcador de Raide 6", additional_info = "Instantâneo"}
@@ -19703,6 +19717,7 @@ MultiLanguageSpellData['pt'][346285] = {name = "Só Faz de Conta", additional_in
 MultiLanguageSpellData['pt'][347065] = {name = "Reiniciar Evento de Sapphiron", additional_info = nil}
 MultiLanguageSpellData['pt'][347551] = {name = "Reiniciar Adições de Faerlina", additional_info = nil}
 MultiLanguageSpellData['pt'][347564] = {name = "Reiniciar Adições de Razúvio", additional_info = nil}
+MultiLanguageSpellData['pt'][347869] = {name = "Fly", additional_info = "Instantâneo\n[q]Take flight!"}
 MultiLanguageSpellData['pt'][348005] = {name = "Veneno", additional_info = "Alcance de 50m\nInstantâneo\n[q]Causa dano de Natureza a um inimigo a cada 3 s por 30 sec."}
 MultiLanguageSpellData['pt'][348021] = {name = "Pedir Ajuda", additional_info = nil}
 MultiLanguageSpellData['pt'][348023] = {name = "Grobbulus Morto - Limpeza", additional_info = nil}
@@ -20304,6 +20319,7 @@ MultiLanguageSpellData['pt'][466980] = {name = "Hipogrifo Naticaos", additional_
 MultiLanguageSpellData['pt'][466983] = {name = "Grifo Naticaos", additional_info = "1.5 seg de lançamento\n[q]Evoca e dispensa um Grifo Naticaos de montaria. Esta é uma montaria voadora."}
 MultiLanguageSpellData['pt'][468201] = {name = "Reven", additional_info = "Instantâneo\n[q]Clique com o Botão Direito para evocar e dispensar Reven."}
 MultiLanguageSpellData['pt'][468215] = {name = "Aprender Mascotes Argênteas", additional_info = nil}
+MultiLanguageSpellData['pt'][468247] = {name = "Cobrinha Celeste Lenhosa", additional_info = "Instantâneo\n[q]Clique com o Botão Direito para evocar e dispensar uma Cobrinha Voadora de Madeira de montaria."}
 MultiLanguageSpellData['pt'][469265] = {name = "Conceder Marca da Árvore do Mundo - 10", additional_info = "Instantâneo\n[q]Concede a você 10 Marcas da Árvore do Mundo."}
 MultiLanguageSpellData['pt'][469349] = {name = "Reflexão de Tormento", additional_info = "Instantâneo\n[q]Aumenta em 3576 o poder de ataque por 10 sec."}
 MultiLanguageSpellData['pt'][469350] = {name = "Reflexão de Tormento", additional_info = "[q]Chance de aumentar em 3576 o seu poder de ataque por 10 s ao causar um acerto crítico corpo a corpo ou de longo alcance.\n(Chance de ativar:10%, 50s de recarga)"}
@@ -20322,7 +20338,7 @@ MultiLanguageSpellData['pt'][473583] = {name = "Abrir Portal de Fogo", additiona
 MultiLanguageSpellData['pt'][473683] = {name = "Combat Pulse", additional_info = nil}
 MultiLanguageSpellData['pt'][1214176] = {name = "Prêmio de Justiça 250", additional_info = "Instantâneo\n[q]Concede 250 Pontos de Justiça a você."}
 MultiLanguageSpellData['pt'][1214948] = {name = "Tiro Explosivo", additional_info = nil}
-MultiLanguageSpellData['pt'][1215229] = {name = "Item - Bônus 2P T12 Elemental Xamã", additional_info = "[q]Seu Raio tem 30% de chance de reduzir em 4 s a recarga do seu Totem de Elemental do Fogo.\n(Chance de ativar:30%)"}
+MultiLanguageSpellData['pt'][1215229] = {name = "Item - Bônus 2P T12 Elemental Xamã", additional_info = "[q]Seu Raio tem 30% de chance de reduzir em 4 s a recarga restante do seu Totem de Elemental do Fogo.\n(Chance de ativar:30%)"}
 MultiLanguageSpellData['pt'][1215484] = {name = "Tiro Explosivo", additional_info = "Alcance de 100m\nInstantâneo\nRequer Arma de Longo Alcance\n[q]Você dispara uma carga explosiva que se aloja no alvo inimigo, causando (Ranged attack power * 0.273 + 449 ) de dano de Fogo. A carga causará dano ao alvo a cada segundo por mais 2 sec."}
 MultiLanguageSpellData['pt'][1215485] = {name = "Tiro Explosivo", additional_info = "Alcance de 100m\nInstantâneo\nRequer Arma de Longo Alcance\n[q]Você dispara uma carga explosiva que se aloja no alvo inimigo, causando (Ranged attack power * 0.273 + 449 ) de dano de Fogo. A carga causará dano ao alvo a cada segundo por mais 2 sec."}
 MultiLanguageSpellData['pt'][1215486] = {name = "Tiro Explosivo", additional_info = "Alcance de 100m\nInstantâneo\nRequer Arma de Longo Alcance\n[q]Você dispara uma carga explosiva que se aloja no alvo inimigo, causando (Ranged attack power * 0.273 + 449 ) de dano de Fogo. A carga causará dano ao alvo a cada segundo por mais 2 sec."}
@@ -20339,3 +20355,173 @@ MultiLanguageSpellData['pt'][1216331] = {name = "[q3]Gargantilha de Rubi Sedenta
 MultiLanguageSpellData['pt'][1216335] = {name = "[q3]Manto de Pele Sedento de Sangue", additional_info = "2 seg de lançamento 3\nReagentes:\nPelego Imaculado , Terra Volátil (4)\n[q3]Manto de Pele Sedento de Sangue\nVincula-se quando equipado\nCostas\n622 Armadura\n+188 Agilidade\n+282 Vigor\n85\n[q2]Equipado: Aumenta em 126 a taxa de acerto crítico.\n[q2]Equipado: Aumenta em 126 a taxa de resiliência."}
 MultiLanguageSpellData['pt'][1216336] = {name = "[q3]Manto de Pelego Sedento de Sangue", additional_info = "2 seg de lançamento 3\nReagentes:\nPelego Imaculado , Fogo Volátil (4)\n[q3]Manto de Pelego Sedento de Sangue\nVincula-se quando equipado\nCostas\n622 Armadura\n+188 Força\n+282 Vigor\n[q2]Aumenta o índice de maestria em + 126.\n85\n[q2]Equipado: Aumenta em 126 a taxa de resiliência."}
 MultiLanguageSpellData['pt'][1216338] = {name = "[q3]Capa de Seribrasa Sedenta de Sangue", additional_info = "2 seg de lançamento 2\nReagentes:\nPeça de Tecido de Seribrasa (10), Água Volátil (6), Fogo Volátil (6)\n[q3]Capa de Seribrasa Sedenta de Sangue\nVincula-se quando equipado\nCostas\n622 Armadura\n+282 Vigor\n+188 Intelecto\n[q2]Aumenta o índice de maestria em + 126.\n85\n[q2]Equipado: Aumenta em 126 a taxa de resiliência.\n\n[q]Seribrasa Sedenta de Sangue (0/9)\n[q0]Cinto de Seribrasa Sedento de Sangue\nBotas de Seribrasa Sedentas de Sangue\nBraçadeiras de Seribrasa Sedentas de Sangue\nCapa de Seribrasa Sedenta de Sangue\nCapucho de Seribrasa Sedento de Sangue\nLuvas de Seribrasa Sedentas de Sangue\nCalças de Seribrasa Sedentas de Sangue\nVeste de Seribrasa Sedenta de Sangue\nOmoplatas de Seribrasa Sedentas de Sangue"}
+MultiLanguageSpellData['pt'][1223558] = {name = "Ressonância da Alma Dragônica", additional_info = "Instantâneo\n[q]A Alma Dragônica enche você de força, aumentando em 5% o seu total de pontos de vida, a cura realizada, a absorção de dano e o dano causado."}
+MultiLanguageSpellData['pt'][1223561] = {name = "Ressonância da Alma Dragônica", additional_info = "Instantâneo\n[q]A Alma Dragônica enche você de força, aumentando em 10% o seu total de pontos de vida, a cura realizada, a absorção de dano e o dano causado."}
+MultiLanguageSpellData['pt'][1223564] = {name = "Ressonância da Alma Dragônica", additional_info = "Instantâneo\n[q]A Alma Dragônica enche você de força, aumentando em 15% o seu total de pontos de vida, a cura realizada, a absorção de dano e o dano causado."}
+MultiLanguageSpellData['pt'][1223565] = {name = "Ressonância da Alma Dragônica", additional_info = "Instantâneo\n[q]A Alma Dragônica enche você de força, aumentando em 20% o seu total de pontos de vida, a cura realizada, a absorção de dano e o dano causado."}
+MultiLanguageSpellData['pt'][1223566] = {name = "Ressonância da Alma Dragônica", additional_info = "Instantâneo\n[q]A Alma Dragônica enche você de força, aumentando em 25% o seu total de pontos de vida, a cura realizada, a absorção de dano e o dano causado."}
+MultiLanguageSpellData['pt'][1223567] = {name = "Ressonância da Alma Dragônica", additional_info = "Instantâneo\n[q]A Alma Dragônica enche você de força, aumentando em 30% o seu total de pontos de vida, a cura realizada, a absorção de dano e o dano causado."}
+MultiLanguageSpellData['pt'][1223568] = {name = "Ressonância da Alma Dragônica", additional_info = nil}
+MultiLanguageSpellData['pt'][1223669] = {name = "Abrindo", additional_info = "2 seg de lançamento\n[q]Abre a bolsa!"}
+MultiLanguageSpellData['pt'][1224138] = {name = "[q3]Cinto de Chamuscama Cruel", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (8), Escama de Dragão Enegrecida (10), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224139] = {name = "[q3]Botas de Chamuscama Cruéis", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (8), Escama de Dragão Enegrecida (10), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224140] = {name = "[q3]Braçadeiras de Chamuscama Cruéis", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (8), Escama de Dragão Enegrecida (10), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224141] = {name = "[q3]Peitoral de Chamuscama Cruel", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (8), Escama de Dragão Enegrecida (10), Vida Volátil (10)"}
+MultiLanguageSpellData['pt'][1224142] = {name = "[q3]Luvas de Chamuscama Cruéis", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (8), Escama de Dragão Enegrecida (10), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224143] = {name = "[q3]Elmo de Chamuscama Cruel", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (8), Escama de Dragão Enegrecida (10), Vida Volátil (10)"}
+MultiLanguageSpellData['pt'][1224144] = {name = "[q3]Perneiras de Chamuscama Cruéis", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (8), Escama de Dragão Enegrecida (10), Água Volátil (10)"}
+MultiLanguageSpellData['pt'][1224145] = {name = "[q3]Omoplatas de Chamuscama Cruéis", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (8), Escama de Dragão Enegrecida (10), Água Volátil (10)"}
+MultiLanguageSpellData['pt'][1224146] = {name = "[q3]Cinto de Escama de Dragão Cruel", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (8), Escama de Dragão Enegrecida (10), Água Volátil (10)"}
+MultiLanguageSpellData['pt'][1224147] = {name = "[q3]Botas de Escama de Dragão Cruéis", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (8), Escama de Dragão Enegrecida (10), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224148] = {name = "[q3]Braçadeiras de Escama de Dragão Cruéis", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (8), Escama de Dragão Enegrecida (10), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224149] = {name = "[q3]Peitoral de Escama de Dragão Cruel", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (8), Escama de Dragão Enegrecida (10), Vida Volátil (10)"}
+MultiLanguageSpellData['pt'][1224150] = {name = "[q3]Luvas de Escama de Dragão Cruéis", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (8), Escama de Dragão Enegrecida (10), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224151] = {name = "[q3]Elmo de Escama de Dragão Cruel", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (8), Escama de Dragão Enegrecida (10), Água Volátil (10)"}
+MultiLanguageSpellData['pt'][1224152] = {name = "[q3]Perneiras de Escama de Dragão Cruéis", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (8), Escama de Dragão Enegrecida (10), Vida Volátil (10)"}
+MultiLanguageSpellData['pt'][1224153] = {name = "[q3]Omoplatas de Escama de Dragão Cruéis", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (8), Escama de Dragão Enegrecida (10), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224154] = {name = "[q3]Cinto de Seribrasa Cruel", additional_info = "2 seg de lançamento\nReagentes:\nPeça de Tecido de Seribrasa (10), Água Volátil (4), Fogo Volátil (4)"}
+MultiLanguageSpellData['pt'][1224155] = {name = "[q3]Botas de Seribrasa Cruéis", additional_info = "2 seg de lançamento\nReagentes:\nPeça de Tecido de Seribrasa (10), Água Volátil (4), Fogo Volátil (4)"}
+MultiLanguageSpellData['pt'][1224156] = {name = "[q3]Braçadeiras de Seribrasa Cruéis", additional_info = "2 seg de lançamento\nReagentes:\nPeça de Tecido de Seribrasa (6), Fogo Volátil (4), Água Volátil (4)"}
+MultiLanguageSpellData['pt'][1224157] = {name = "[q3]Capucho de Seribrasa Cruel", additional_info = "2 seg de lançamento\nReagentes:\nPeça de Tecido de Seribrasa (10), Água Volátil (4), Fogo Volátil (4)"}
+MultiLanguageSpellData['pt'][1224158] = {name = "[q3]Luvas de Seribrasa Cruéis", additional_info = "2 seg de lançamento\nReagentes:\nPeça de Tecido de Seribrasa (10), Água Volátil (4), Fogo Volátil (4)"}
+MultiLanguageSpellData['pt'][1224159] = {name = "[q3]Calças de Seribrasa Cruéis", additional_info = "2 seg de lançamento\nReagentes:\nPeça de Tecido de Seribrasa (10), Água Volátil (4), Fogo Volátil (4)"}
+MultiLanguageSpellData['pt'][1224160] = {name = "[q3]Veste de Seribrasa Cruel", additional_info = "2 seg de lançamento\nReagentes:\nPeça de Tecido de Seribrasa (10), Água Volátil (4), Fogo Volátil (4)"}
+MultiLanguageSpellData['pt'][1224161] = {name = "[q3]Omoplatas de Seribrasa Cruéis", additional_info = "2 seg de lançamento\nReagentes:\nPeça de Tecido de Seribrasa (6), Água Volátil (3), Fogo Volátil (3)"}
+MultiLanguageSpellData['pt'][1224162] = {name = "[q3]Cinto de Ignitrama Cruel", additional_info = "2 seg de lançamento\nReagentes:\nPeça de Tecido de Seribrasa (6), Fogo Volátil (3), Ar Volátil (3)"}
+MultiLanguageSpellData['pt'][1224163] = {name = "[q3]Botas de Ignitrama Cruéis", additional_info = "2 seg de lançamento\nReagentes:\nPeça de Tecido de Seribrasa (10), Fogo Volátil (4), Água Volátil (4)"}
+MultiLanguageSpellData['pt'][1224164] = {name = "[q3]Braçadeiras de Ignitrama Cruéis", additional_info = "2 seg de lançamento\nReagentes:\nPeça de Tecido de Seribrasa (6), Fogo Volátil (3), Ar Volátil (3)"}
+MultiLanguageSpellData['pt'][1224165] = {name = "[q3]Capucho de Ignitrama Cruel", additional_info = "2 seg de lançamento\nReagentes:\nPeça de Tecido de Seribrasa (10), Fogo Volátil (4), Ar Volátil (4)"}
+MultiLanguageSpellData['pt'][1224166] = {name = "[q3]Luvas de Ignitrama Cruéis", additional_info = "2 seg de lançamento\nReagentes:\nPeça de Tecido de Seribrasa (10), Fogo Volátil (4), Ar Volátil (4)"}
+MultiLanguageSpellData['pt'][1224167] = {name = "[q3]Calças de Ignitrama Cruéis", additional_info = "2 seg de lançamento\nReagentes:\nPeça de Tecido de Seribrasa (10), Fogo Volátil (4), Ar Volátil (4)"}
+MultiLanguageSpellData['pt'][1224168] = {name = "[q3]Veste de Ignitrama Cruel", additional_info = "2 seg de lançamento\nReagentes:\nPeça de Tecido de Seribrasa (8), Fogo Volátil (4), Ar Volátil (4)"}
+MultiLanguageSpellData['pt'][1224169] = {name = "[q3]Omoplatas de Ignitrama Cruéis", additional_info = "2 seg de lançamento\nReagentes:\nPeça de Tecido de Seribrasa (10), Fogo Volátil (4), Ar Volátil (4)"}
+MultiLanguageSpellData['pt'][1224170] = {name = "[q3]Cinto de Couro Cruel", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (10), Água Volátil (10)"}
+MultiLanguageSpellData['pt'][1224171] = {name = "[q3]Botas de Couro Cruéis", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (10), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224172] = {name = "[q3]Braçadeiras de Couro Cruéis", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (10), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224173] = {name = "[q3]Peitoral de Couro Cruel", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (10), Vida Volátil (10)"}
+MultiLanguageSpellData['pt'][1224174] = {name = "[q3]Luvas de Couro Cruéis", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (10), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224175] = {name = "[q3]Elmo de Couro Cruel", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (10), Água Volátil (10)"}
+MultiLanguageSpellData['pt'][1224176] = {name = "[q3]Perneiras de Couro Cruéis", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (10), Vida Volátil (10)"}
+MultiLanguageSpellData['pt'][1224177] = {name = "[q3]Omoplatas de Couro Cruéis", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (10), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224178] = {name = "[q3]Cinto de Pírio Ornado Cruel", additional_info = "2 seg de lançamento\nFerramentas: Martelo de Ferreiro\nReagentes:\nBarra de Elemêntio (10), Água Volátil (10)"}
+MultiLanguageSpellData['pt'][1224179] = {name = "[q3]Botas de Pírio Ornadas Cruéis", additional_info = "2 seg de lançamento\nFerramentas: Martelo de Ferreiro\nReagentes:\nBarra de Elemêntio (12), Água Volátil (10)"}
+MultiLanguageSpellData['pt'][1224180] = {name = "[q3]Braçadeiras de Pírio Ornadas Cruéis", additional_info = "2 seg de lançamento\nFerramentas: Martelo de Ferreiro\nReagentes:\nBarra de Elemêntio (8), Água Volátil (10)"}
+MultiLanguageSpellData['pt'][1224181] = {name = "[q3]Peitoral de Pírio Ornado Cruel", additional_info = "2 seg de lançamento\nFerramentas: Martelo de Ferreiro\nReagentes:\nBarra de Elemêntio (15), Água Volátil (10)"}
+MultiLanguageSpellData['pt'][1224182] = {name = "[q3]Manoplas de Pírio Ornadas Cruéis", additional_info = "2 seg de lançamento\nFerramentas: Martelo de Ferreiro\nReagentes:\nBarra de Elemêntio (10), Água Volátil (10)"}
+MultiLanguageSpellData['pt'][1224183] = {name = "[q3]Elmo de Pírio Ornado Cruel", additional_info = "2 seg de lançamento\nFerramentas: Martelo de Ferreiro\nReagentes:\nBarra de Elemêntio (15), Água Volátil (10)"}
+MultiLanguageSpellData['pt'][1224184] = {name = "[q3]Guarda-pernas de Pírio Ornados Cruéis", additional_info = "2 seg de lançamento\nFerramentas: Martelo de Ferreiro\nReagentes:\nBarra de Elemêntio (15), Água Volátil (10)"}
+MultiLanguageSpellData['pt'][1224185] = {name = "[q3]Omoplatas de Pírio Ornadas Cruéis", additional_info = "2 seg de lançamento\nFerramentas: Martelo de Ferreiro\nReagentes:\nBarra de Elemêntio (12), Água Volátil (10)"}
+MultiLanguageSpellData['pt'][1224186] = {name = "[q3]Cinto de Pírio Cruel", additional_info = "2 seg de lançamento\nFerramentas: Martelo de Ferreiro\nReagentes:\nBarra de Elemêntio (10), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224187] = {name = "[q3]Botas de Pírio Cruéis", additional_info = "2 seg de lançamento\nFerramentas: Martelo de Ferreiro\nReagentes:\nBarra de Elemêntio (12), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224188] = {name = "[q3]Braçadeiras de Pírio Cruéis", additional_info = "2 seg de lançamento\nFerramentas: Martelo de Ferreiro\nReagentes:\nBarra de Elemêntio (8), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224189] = {name = "[q3]Peitoral de Pírio Cruel", additional_info = "2 seg de lançamento\nFerramentas: Martelo de Ferreiro\nReagentes:\nBarra de Elemêntio (15), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224190] = {name = "[q3]Manoplas de Pírio Cruéis", additional_info = "2 seg de lançamento\nFerramentas: Martelo de Ferreiro\nReagentes:\nBarra de Elemêntio (10), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224191] = {name = "[q3]Elmo de Pírio Cruel", additional_info = "2 seg de lançamento\nFerramentas: Martelo de Ferreiro\nReagentes:\nBarra de Elemêntio (15), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224192] = {name = "[q3]Guarda-pernas de Pírio Cruéis", additional_info = "2 seg de lançamento\nFerramentas: Martelo de Ferreiro\nReagentes:\nBarra de Elemêntio (15), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224193] = {name = "[q3]Omoplatas de Pírio Cruéis", additional_info = "2 seg de lançamento\nFerramentas: Martelo de Ferreiro\nReagentes:\nBarra de Elemêntio (12), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224194] = {name = "[q3]Cinto de Couro de Serpe Cruel", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (10), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224195] = {name = "[q3]Botas de Couro de Serpe Cruéis", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (10), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224196] = {name = "[q3]Braçadeiras de Couro de Serpe Cruéis", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (10), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224197] = {name = "[q3]Peitoral de Couro de Serpe Cruel", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (10), Água Volátil (10)"}
+MultiLanguageSpellData['pt'][1224198] = {name = "[q3]Luvas de Couro de Serpe Cruéis", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (10), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224199] = {name = "[q3]Elmo de Couro de Serpe Cruel", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (10), Vida Volátil (10)"}
+MultiLanguageSpellData['pt'][1224200] = {name = "[q3]Perneiras de Couro de Serpe Cruéis", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (10), Vida Volátil (10)"}
+MultiLanguageSpellData['pt'][1224201] = {name = "[q3]Omoplatas de Couro de Serpe Cruéis", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (10), Água Volátil (10)"}
+MultiLanguageSpellData['pt'][1224208] = {name = "[q3]Cinto de Ignitrama", additional_info = "2 seg de lançamento\nReagentes:\nPeça de Tecido de Seribrasa (6), Fogo Volátil (3), Ar Volátil (3)"}
+MultiLanguageSpellData['pt'][1224209] = {name = "[q3]Braçadeiras do Fogo de Brasa", additional_info = "2 seg de lançamento\nReagentes:\nPeça de Tecido de Seribrasa (6), Fogo Volátil (4), Água Volátil (4)"}
+MultiLanguageSpellData['pt'][1224210] = {name = "[q3]Braçadeiras de Ignitrama", additional_info = "2 seg de lançamento\nReagentes:\nPeça de Tecido de Seribrasa (6), Fogo Volátil (3), Ar Volátil (3)"}
+MultiLanguageSpellData['pt'][1224211] = {name = "[q3]Omoplatas do Fogo de Brasa", additional_info = "2 seg de lançamento\nReagentes:\nPeça de Tecido de Seribrasa (6), Água Volátil (3), Fogo Volátil (3)"}
+MultiLanguageSpellData['pt'][1224212] = {name = "[q3]Omoplatas de Ignitrama", additional_info = "2 seg de lançamento\nReagentes:\nPeça de Tecido de Seribrasa (10), Fogo Volátil (4), Ar Volátil (4)"}
+MultiLanguageSpellData['pt'][1224213] = {name = "[q3]Cinto do Fogo de Brasa", additional_info = "2 seg de lançamento\nReagentes:\nPeça de Tecido de Seribrasa (10), Água Volátil (4), Fogo Volátil (4)"}
+MultiLanguageSpellData['pt'][1224214] = {name = "[q3]Botas de Ignitrama", additional_info = "2 seg de lançamento\nReagentes:\nPeça de Tecido de Seribrasa (10), Fogo Volátil (4), Água Volátil (4)"}
+MultiLanguageSpellData['pt'][1224215] = {name = "[q3]Luvas do Fogo de Brasa", additional_info = "2 seg de lançamento\nReagentes:\nPeça de Tecido de Seribrasa (10), Água Volátil (4), Fogo Volátil (4)"}
+MultiLanguageSpellData['pt'][1224216] = {name = "[q3]Luvas de Ignitrama", additional_info = "2 seg de lançamento\nReagentes:\nPeça de Tecido de Seribrasa (10), Fogo Volátil (4), Ar Volátil (4)"}
+MultiLanguageSpellData['pt'][1224217] = {name = "[q3]Botas do Fogo de Brasa", additional_info = "2 seg de lançamento\nReagentes:\nPeça de Tecido de Seribrasa (10), Água Volátil (4), Fogo Volátil (4)"}
+MultiLanguageSpellData['pt'][1224218] = {name = "[q3]Calças de Ignitrama", additional_info = "2 seg de lançamento\nReagentes:\nPeça de Tecido de Seribrasa (10), Fogo Volátil (4), Ar Volátil (4)"}
+MultiLanguageSpellData['pt'][1224219] = {name = "[q3]Veste de Ignitrama", additional_info = "2 seg de lançamento\nReagentes:\nPeça de Tecido de Seribrasa (8), Fogo Volátil (4), Ar Volátil (4)"}
+MultiLanguageSpellData['pt'][1224220] = {name = "[q3]Capucho de Ignitrama", additional_info = "2 seg de lançamento\nReagentes:\nPeça de Tecido de Seribrasa (10), Fogo Volátil (4), Ar Volátil (4)"}
+MultiLanguageSpellData['pt'][1224221] = {name = "[q3]Veste do Fogo de Brasa", additional_info = "2 seg de lançamento\nReagentes:\nPeça de Tecido de Seribrasa (10), Água Volátil (4), Fogo Volátil (4)"}
+MultiLanguageSpellData['pt'][1224222] = {name = "[q3]Capucho do Fogo de Brasa", additional_info = "2 seg de lançamento\nReagentes:\nPeça de Tecido de Seribrasa (10), Água Volátil (4), Fogo Volátil (4)"}
+MultiLanguageSpellData['pt'][1224223] = {name = "[q3]Calças do Fogo de Brasa", additional_info = "2 seg de lançamento\nReagentes:\nPeça de Tecido de Seribrasa (10), Água Volátil (4), Fogo Volátil (4)"}
+MultiLanguageSpellData['pt'][1224224] = {name = "[q3]Braçadeiras de Pírio Ensanguentadas", additional_info = "2 seg de lançamento\nFerramentas: Martelo de Ferreiro\nReagentes:\nBarra de Elemêntio (8), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224225] = {name = "[q3]Manoplas de Pírio Ensanguentadas", additional_info = "2 seg de lançamento\nFerramentas: Martelo de Ferreiro\nReagentes:\nBarra de Elemêntio (10), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224226] = {name = "[q3]Cinto de Pírio Ensanguentado", additional_info = "2 seg de lançamento\nFerramentas: Martelo de Ferreiro\nReagentes:\nBarra de Elemêntio (10), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224227] = {name = "[q3]Botas de Pírio Ensanguentadas", additional_info = "2 seg de lançamento\nFerramentas: Martelo de Ferreiro\nReagentes:\nBarra de Elemêntio (12), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224228] = {name = "[q3]Omoplatas de Pírio Ensanguentadas", additional_info = "2 seg de lançamento\nFerramentas: Martelo de Ferreiro\nReagentes:\nBarra de Elemêntio (12), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224229] = {name = "[q3]Guarda-pernas de Pírio Ensanguentados", additional_info = "2 seg de lançamento\nFerramentas: Martelo de Ferreiro\nReagentes:\nBarra de Elemêntio (15), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224230] = {name = "[q3]Elmo de Pírio Ensanguentado", additional_info = "2 seg de lançamento\nFerramentas: Martelo de Ferreiro\nReagentes:\nBarra de Elemêntio (15), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224231] = {name = "[q3]Peitoral de Pírio Ensanguentado", additional_info = "2 seg de lançamento\nFerramentas: Martelo de Ferreiro\nReagentes:\nBarra de Elemêntio (15), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224232] = {name = "[q3]Braçadeiras de Pírio Ornadas", additional_info = "2 seg de lançamento\nFerramentas: Martelo de Ferreiro\nReagentes:\nBarra de Elemêntio (8), Água Volátil (10)"}
+MultiLanguageSpellData['pt'][1224233] = {name = "[q3]Manoplas de Pírio Ornadas", additional_info = "2 seg de lançamento\nFerramentas: Martelo de Ferreiro\nReagentes:\nBarra de Elemêntio (10), Água Volátil (10)"}
+MultiLanguageSpellData['pt'][1224234] = {name = "[q3]Cinto de Pírio Ornado", additional_info = "2 seg de lançamento\nFerramentas: Martelo de Ferreiro\nReagentes:\nBarra de Elemêntio (10), Água Volátil (10)"}
+MultiLanguageSpellData['pt'][1224235] = {name = "[q3]Botas de Pírio Ornadas", additional_info = "2 seg de lançamento\nFerramentas: Martelo de Ferreiro\nReagentes:\nBarra de Elemêntio (12), Água Volátil (10)"}
+MultiLanguageSpellData['pt'][1224236] = {name = "[q3]Omoplatas de Pírio Ornadas", additional_info = "2 seg de lançamento\nFerramentas: Martelo de Ferreiro\nReagentes:\nBarra de Elemêntio (12), Água Volátil (10)"}
+MultiLanguageSpellData['pt'][1224237] = {name = "[q3]Guarda-pernas de Pírio Ornados", additional_info = "2 seg de lançamento\nFerramentas: Martelo de Ferreiro\nReagentes:\nBarra de Elemêntio (15), Água Volátil (10)"}
+MultiLanguageSpellData['pt'][1224238] = {name = "[q3]Elmo de Pírio Ornado", additional_info = "2 seg de lançamento\nFerramentas: Martelo de Ferreiro\nReagentes:\nBarra de Elemêntio (15), Água Volátil (10)"}
+MultiLanguageSpellData['pt'][1224239] = {name = "[q3]Peitoral de Pírio Ornado", additional_info = "2 seg de lançamento\nFerramentas: Martelo de Ferreiro\nReagentes:\nBarra de Elemêntio (15), Água Volátil (10)"}
+MultiLanguageSpellData['pt'][1224240] = {name = "[q3]Braçadeiras Ensanguentadas de Couro de Serpe", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (10), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224241] = {name = "[q3]Cinto Ensanguentado de Couro de Serpe", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (10), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224242] = {name = "[q3]Braçadeiras Ensanguentadas de Couro", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (10), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224243] = {name = "[q3]Luvas de Couro Ensanguentadas", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (10), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224244] = {name = "[q3]Braçadeiras Ensanguentadas de Escamas", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (8), Escama de Dragão Enegrecida (10), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224245] = {name = "[q3]Luvas Ensanguentadas de Escamas", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (8), Escama de Dragão Enegrecida (10), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224246] = {name = "[q3]Braçadeiras Ensanguentadas de Escama de Dragão", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (8), Escama de Dragão Enegrecida (10), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224247] = {name = "[q3]Omoplatas Ensanguentadas de Escama de Dragão", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (8), Escama de Dragão Enegrecida (10), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224248] = {name = "[q3]Luvas Ensanguentadas de Couro de Serpe", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (10), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224249] = {name = "[q3]Botas Ensanguentadas de Couro de Serpe", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (10), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224250] = {name = "[q3]Botas Ensanguentadas de Couro", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (10), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224251] = {name = "[q3]Omoplatas Ensanguentadas de Couro", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (10), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224252] = {name = "[q3]Botas Ensanguentadas de Escamas", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (8), Escama de Dragão Enegrecida (10), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224253] = {name = "[q3]Cinto Ensanguentado de Escamas", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (8), Escama de Dragão Enegrecida (10), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224254] = {name = "[q3]Botas Ensanguentadas de Escama de Dragão", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (8), Escama de Dragão Enegrecida (10), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224255] = {name = "[q3]Luvas Ensanguentadas de Escama de Dragão", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (8), Escama de Dragão Enegrecida (10), Fogo Volátil (10)"}
+MultiLanguageSpellData['pt'][1224256] = {name = "[q3]Omoplatas Ensanguentadas de Couro de Serpe", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (10), Água Volátil (10)"}
+MultiLanguageSpellData['pt'][1224257] = {name = "[q3]Peitoral Ensanguentado de Couro de Serpe", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (10), Água Volátil (10)"}
+MultiLanguageSpellData['pt'][1224258] = {name = "[q3]Cinto Ensanguentado de Couro", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (10), Água Volátil (10)"}
+MultiLanguageSpellData['pt'][1224259] = {name = "[q3]Elmo Ensanguentado de Couro", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (10), Água Volátil (10)"}
+MultiLanguageSpellData['pt'][1224260] = {name = "[q3]Omoplatas de Escamas Ensanguentadas", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (8), Escama de Dragão Enegrecida (10), Água Volátil (10)"}
+MultiLanguageSpellData['pt'][1224261] = {name = "[q3]Perneiras Ensanguentadas de Escamas", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (8), Escama de Dragão Enegrecida (10), Água Volátil (10)"}
+MultiLanguageSpellData['pt'][1224262] = {name = "[q3]Cinto Ensanguentado de Escama de Dragão", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (8), Escama de Dragão Enegrecida (10), Água Volátil (10)"}
+MultiLanguageSpellData['pt'][1224263] = {name = "[q3]Elmo Ensanguentado de Escama de Dragão", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (8), Escama de Dragão Enegrecida (10), Água Volátil (10)"}
+MultiLanguageSpellData['pt'][1224264] = {name = "[q3]Perneiras Ensanguentadas de Couro de Serpe", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (10), Vida Volátil (10)"}
+MultiLanguageSpellData['pt'][1224265] = {name = "[q3]Elmo Ensanguentado de Couro de Serpe", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (10), Vida Volátil (10)"}
+MultiLanguageSpellData['pt'][1224266] = {name = "[q3]Peitoral Ensanguentado de Couro", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (10), Vida Volátil (10)"}
+MultiLanguageSpellData['pt'][1224267] = {name = "[q3]Perneiras Ensanguentadas de Couro", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (10), Vida Volátil (10)"}
+MultiLanguageSpellData['pt'][1224268] = {name = "[q3]Peitoral Ensanguentado de Escamas", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (8), Escama de Dragão Enegrecida (10), Vida Volátil (10)"}
+MultiLanguageSpellData['pt'][1224269] = {name = "[q3]Elmo Ensanguentado de Escamas", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (8), Escama de Dragão Enegrecida (10), Vida Volátil (10)"}
+MultiLanguageSpellData['pt'][1224270] = {name = "[q3]Perneiras Ensanguentadas de Escama de Dragão", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (8), Escama de Dragão Enegrecida (10), Vida Volátil (10)"}
+MultiLanguageSpellData['pt'][1224271] = {name = "[q3]Peitoral Ensanguentado de Escama de Dragão", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (8), Escama de Dragão Enegrecida (10), Vida Volátil (10)"}
+MultiLanguageSpellData['pt'][1224545] = {name = "Disabled Dragon Soul Teleport", additional_info = "Instantâneo\n[q]Dragon Soul is disabled on the PTR at this time."}
+MultiLanguageSpellData['pt'][1224920] = {name = "Protocol Twilight", additional_info = "Alcance ilimitado\n{Instantâneo} {1 min de recarga}"}
+MultiLanguageSpellData['pt'][1224921] = {name = "Protocol Twilight", additional_info = nil}
+MultiLanguageSpellData['pt'][1224922] = {name = "Protocol Twilight", additional_info = nil}
+MultiLanguageSpellData['pt'][1224923] = {name = "Twilight's Madness", additional_info = "Instantâneo\n(Chance de ativar:35%, 30s de recarga)"}
+MultiLanguageSpellData['pt'][1224924] = {name = "Summon Defender", additional_info = "Instantâneo\n[q]Summon a Wyrmrest Defender."}
+MultiLanguageSpellData['pt'][1224925] = {name = "Gift of the Red Dragonflight", additional_info = nil}
+MultiLanguageSpellData['pt'][1224926] = {name = "Gift of the Red Dragonflight", additional_info = "Alcance ilimitado\nInstantâneo\n(1s de recarga)"}
+MultiLanguageSpellData['pt'][1224927] = {name = "Gift of the Bronze Dragonflight", additional_info = nil}
+MultiLanguageSpellData['pt'][1224928] = {name = "Gift of the Bronze Dragonflight", additional_info = "Alcance ilimitado\nInstantâneo\n(1s de recarga)"}
+MultiLanguageSpellData['pt'][1224929] = {name = "Gift of the Blue Dragonflight", additional_info = nil}
+MultiLanguageSpellData['pt'][1224930] = {name = "Gift of the Blue Dragonflight", additional_info = "Alcance ilimitado\nInstantâneo\n(1s de recarga)"}
+MultiLanguageSpellData['pt'][1224931] = {name = "Verdant Surge", additional_info = nil}
+MultiLanguageSpellData['pt'][1224932] = {name = "Gift of the Green Dragonflight", additional_info = "Alcance ilimitado\nInstantâneo\n(1s de recarga)"}
+MultiLanguageSpellData['pt'][1224933] = {name = "Verdant Restoration", additional_info = nil}
+MultiLanguageSpellData['pt'][1224934] = {name = "Sangue Chamejante de Shu'ma", additional_info = "Instantâneo\n[q]Infused with the Glowing Blood of the Old Gods.\n Attack speed increased 50%."}
+MultiLanguageSpellData['pt'][1224935] = {name = "Vácuo de Mana", additional_info = "Alcance de 30m\nInstantâneo\n[q]Causa 0 de dano de Sombra a inimigos próximos."}
+MultiLanguageSpellData['pt'][1224936] = {name = "Sangue Calcinante", additional_info = "Alcance de 30m\n{Instantâneo} {3 seg de recarga}\n[q]Calcina o sangue de inimigos distantes aleatoriamente, causando mais dano de acordo com a distância em relação ao lançador."}
+MultiLanguageSpellData['pt'][1224937] = {name = "Parasita de Lava", additional_info = nil}
+MultiLanguageSpellData['pt'][1224938] = {name = "Pilar de Fogo", additional_info = "Alcance de 200m\nInstantâneo\n[q]Arremessa magma fervente contra um inimigo, causando 29250 to 30750 de dano e partindo o solo."}
+MultiLanguageSpellData['pt'][1224939] = {name = "Ácido Digestivo", additional_info = "Alcance ilimitado\nInstantâneo\n[q]Causa 30625 to 39375 de dano de Natureza ao alvo inimigo."}
+MultiLanguageSpellData['pt'][1224940] = {name = "Ácido Digestivo", additional_info = "Alcance ilimitado\nInstantâneo\n[q]Causa 67275 to 70725 de dano de Natureza ao alvo inimigo."}
+MultiLanguageSpellData['pt'][1224941] = {name = "Cuspe de Magma", additional_info = "Instantâneo"}
+MultiLanguageSpellData['pt'][1224942] = {name = "Ácido Digestivo", additional_info = nil}
+MultiLanguageSpellData['pt'][1224943] = {name = "Ácido Digestivo", additional_info = "Alcance de 200m\nInstantâneo\n[q]Causa 0 de dano de Natureza a cada 5 s."}
+MultiLanguageSpellData['pt'][1224944] = {name = "Corrupção Profunda", additional_info = "Alcance de 150m\nInstantâneo\n[q]Causa 46250 to 53750 de dano a todos os aliados próximos."}
+MultiLanguageSpellData['pt'][1224945] = {name = "Corrupção Profunda", additional_info = "Alcance de 100m\nInstantâneo\n[q]Cura recebida ou absorção de efeitos irão ativar uma detonação ao acumularem 5 vezes."}
+MultiLanguageSpellData['pt'][1224946] = {name = "Corrupção Profunda", additional_info = "Alcance de 100m\nInstantâneo\n[q]Cura recebida ou absorção de efeitos irão ativar uma detonação ao acumularem 5 vezes."}
+MultiLanguageSpellData['pt'][1224947] = {name = "Corrupção Profunda", additional_info = nil}
+MultiLanguageSpellData['pt'][1224948] = {name = "Corrupção Profunda", additional_info = nil}
+MultiLanguageSpellData['pt'][1224949] = {name = "Corrupção Profunda", additional_info = nil}
+MultiLanguageSpellData['pt'][1224950] = {name = "Corrupção Profunda", additional_info = "Alcance de 150m\nInstantâneo\n[q]Causa 89725 to 104275 de dano a todos os aliados próximos."}
+MultiLanguageSpellData['pt'][1224951] = {name = "Corrupção Profunda", additional_info = "Alcance de 100m\nInstantâneo\n[q]Cura recebida ou a absorção de efeitos ativará uma detonação ao acumular 5 vezes."}
+MultiLanguageSpellData['pt'][1224952] = {name = "Corrupção Profunda", additional_info = "Alcance de 100m\nInstantâneo\n[q]Cura recebida ou absorção de efeitos irão ativar uma detonação ao acumularem 5 vezes."}
