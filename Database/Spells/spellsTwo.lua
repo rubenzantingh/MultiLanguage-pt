@@ -759,7 +759,7 @@ MultiLanguageSpellData['pt'][78269] = {name = "Quest Credit: That's Why They Cal
 MultiLanguageSpellData['pt'][78270] = {name = "Evocar Vingador Kvaldir", additional_info = nil}
 MultiLanguageSpellData['pt'][78271] = {name = "Mudança de Fase 1 Floresta Kelp'thar e Currais", additional_info = nil}
 MultiLanguageSpellData['pt'][78272] = {name = "Fogaréu", additional_info = nil}
-MultiLanguageSpellData['pt'][78273] = {name = "Arma de Labaredas", additional_info = "6% de base mana\nInstantâneo\nRequer Arma corpo a corpo\n[q]Imbui em fogo a arma do xamã, aumentando em 7 o dano mágico total. Cada acerto causa de $/78275m1 a 1 de dano de Fogo a mais. Dura 30 minutos."}
+MultiLanguageSpellData['pt'][78273] = {name = "Arma de Labaredas", additional_info = "6% de base mana\nInstantâneo\nRequer Arma corpo a corpo\n[q]Imbui em fogo a arma do xamã, aumentando em 7 o dano mágico total. Cada acerto causa de /78275m1 a 1 de dano de Fogo a mais. Dura 30 minutos."}
 MultiLanguageSpellData['pt'][78274] = {name = "Visual de Ciclone", additional_info = nil}
 MultiLanguageSpellData['pt'][78275] = {name = "Criatura - Efeito Secundário da Arma de Labaredas", additional_info = nil}
 MultiLanguageSpellData['pt'][78276] = {name = "Capacete de Mergulho Cachorrinho", additional_info = nil}
@@ -18341,7 +18341,7 @@ MultiLanguageSpellData['pt'][105562] = {name = "Ácido Digestivo", additional_in
 MultiLanguageSpellData['pt'][105563] = {name = "Tentáculos Agarradiços", additional_info = "Instantâneo\n[q]Agarra os inimigos próximos, causando 5250 to 6750 de dano de Fogo, e os fixa nas costas do Asa da Morte, reduzindo em 35% sua velocidade de movimento. Enquanto grudados, os inimigos não podem ser derrubados das costas do Asa da Morte."}
 MultiLanguageSpellData['pt'][105565] = {name = "Cauterizar", additional_info = "1 seg de lançamento\n[q]Alexstrasza começa a cauterizar os Tentáculos Pustulosos, causando dano mortal ao longo de 5 sec."}
 MultiLanguageSpellData['pt'][105569] = {name = "Cauterizar", additional_info = "Alcance ilimitado\nInstantâneo\n[q]Alexstrasza cauteriza os Tentáculos Pustulosos, causando 5 de dano de Fogo a cada 0.2 s."}
-MultiLanguageSpellData['pt'][105571] = {name = "Cuspe de Magma", additional_info = "Instantâneo"}
+MultiLanguageSpellData['pt'][105571] = {name = "Ácido Digestivo", additional_info = "Instantâneo"}
 MultiLanguageSpellData['pt'][105572] = {name = "Chamas do Crepúsculo", additional_info = "Canalizado (0 seg de lançamento)\n[q]Canaliza chamas sombrias sobre uma grande área, negando acesso a uma parte da plataforma superior do Templo do Repouso das Serpes. Pode ser usado até que seja cancelado ou interrompido."}
 MultiLanguageSpellData['pt'][105573] = {name = "Ácido Digestivo", additional_info = "Alcance ilimitado\nInstantâneo\n[q]Causa 67275 to 70725 de dano de Natureza ao alvo inimigo."}
 MultiLanguageSpellData['pt'][105576] = {name = "Feitiço de Conquista de Mannoroth", additional_info = nil}
@@ -18367,8 +18367,8 @@ MultiLanguageSpellData['pt'][105615] = {name = "Chamas do Crepúsculo", addition
 MultiLanguageSpellData['pt'][105633] = {name = "Xamã Carranco", additional_info = "Instantâneo\n[q]Clique com o Botão Direito para evocar e dispensar seu Xamã Carranco."}
 MultiLanguageSpellData['pt'][105634] = {name = "Reverter Morte", additional_info = nil}
 MultiLanguageSpellData['pt'][105635] = {name = "Voltar para as Sombras", additional_info = "Instantâneo\n[q]Força todos os aliados próximos com Manto Sombrio a entrarem no modo furtivo."}
-MultiLanguageSpellData['pt'][105636] = {name = "Pilar de Fogo", additional_info = "Alcance de 200m\nInstantâneo\n[q]Arremessa magma fervente contra um inimigo, causando 29250 to 30750 de dano e partindo o solo."}
-MultiLanguageSpellData['pt'][105637] = {name = "Parasita de Lava", additional_info = nil}
+MultiLanguageSpellData['pt'][105636] = {name = "Lacaios Corrompidos", additional_info = "Alcance de 200m\nInstantâneo\n[q]Arremessa magma fervente contra um inimigo, causando 29250 to 30750 de dano e partindo o solo."}
+MultiLanguageSpellData['pt'][105637] = {name = "Lacaios Corrompidos", additional_info = nil}
 MultiLanguageSpellData['pt'][105646] = {name = "Item - Bônus 4P T13 de Cavaleiro da Morte DPS", additional_info = "[q]Quando ativadas, a Potencialização Rúnica tem 25% de chance e a Corrupção Rúnica tem 40% de chance de conceder também 710 de taxa de maestria por 12 sec."}
 MultiLanguageSpellData['pt'][105647] = {name = "Mestre Tático", additional_info = "Instantâneo\n[q]Aumenta em 710 a sua taxa de maestria por 12 sec."}
 MultiLanguageSpellData['pt'][105651] = {name = "Raio de Elemêntio", additional_info = "Canalizado (2 seg de lançamento)\n[q]Asa da Morte lança um Raio de Elemêntio na plataforma do alvo. Se o Raio de Elemêntio chegar ao destino, causará 456300 to 479700 de dano de Fogo a todos os inimigos e mais 380250 to 399750 de dano de Fogo a cada 5 s por 2 sec."}
@@ -19672,7 +19672,7 @@ MultiLanguageSpellData['pt'][126583] = {name = "Item - Efeito Secundário Força
 MultiLanguageSpellData['pt'][126659] = {name = "Línguas Céleres", additional_info = "Instantâneo\n[q]Aceleração aumentada em 963 por 20 sec."}
 MultiLanguageSpellData['pt'][126660] = {name = "Item - Efeito Secundário Aceleração com Acertos de Feitiços", additional_info = "[q]Sempre que seus feitiços nocivos atingem, você tem chance de ganhar 963 de aceleração por 20 sec. (15% de chance, 115 s de recarga)\n(Chance de ativar:15%, 1.917min de recarga)"}
 MultiLanguageSpellData['pt'][133630] = {name = "Proficiência Refinada", additional_info = "Alcance de 40m\nInstantâneo\n[q]Aumenta em 2573 a taxa de maestria por 20 sec."}
-MultiLanguageSpellData['pt'][133631] = {name = "Item - Efeito Secundário Maestria em Ataques", additional_info = "[q]Quando seus ataques acertam, você tem chance de ganhar 0 de Maestria por until cancelled.\n(Chance de ativar:15%, 1.083min de recarga)"}
+MultiLanguageSpellData['pt'][133631] = {name = "Item - Efeito Secundário Maestria em Ataques", additional_info = "[q]Quando seus ataques acertam, você tem chance de ganhar 2573 de Maestria por 20 sec.\n(Chance de ativar:15%, 1.083min de recarga)"}
 MultiLanguageSpellData['pt'][158263] = {name = "Covarde", additional_info = nil}
 MultiLanguageSpellData['pt'][160597] = {name = "Criar Herança", additional_info = nil}
 MultiLanguageSpellData['pt'][171555] = {name = "Marcador de Raide 6", additional_info = "Instantâneo"}
@@ -20491,37 +20491,65 @@ MultiLanguageSpellData['pt'][1224268] = {name = "[q3]Peitoral Ensanguentado de E
 MultiLanguageSpellData['pt'][1224269] = {name = "[q3]Elmo Ensanguentado de Escamas", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (8), Escama de Dragão Enegrecida (10), Vida Volátil (10)"}
 MultiLanguageSpellData['pt'][1224270] = {name = "[q3]Perneiras Ensanguentadas de Escama de Dragão", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (8), Escama de Dragão Enegrecida (10), Vida Volátil (10)"}
 MultiLanguageSpellData['pt'][1224271] = {name = "[q3]Peitoral Ensanguentado de Escama de Dragão", additional_info = "3 seg de lançamento\nReagentes:\nCouro Selvagem Pesado (8), Escama de Dragão Enegrecida (10), Vida Volátil (10)"}
-MultiLanguageSpellData['pt'][1224545] = {name = "Disabled Dragon Soul Teleport", additional_info = "Instantâneo\n[q]Dragon Soul is disabled on the PTR at this time."}
-MultiLanguageSpellData['pt'][1224920] = {name = "Protocol Twilight", additional_info = "Alcance ilimitado\n{Instantâneo} {1 min de recarga}"}
-MultiLanguageSpellData['pt'][1224921] = {name = "Protocol Twilight", additional_info = nil}
-MultiLanguageSpellData['pt'][1224922] = {name = "Protocol Twilight", additional_info = nil}
-MultiLanguageSpellData['pt'][1224923] = {name = "Twilight's Madness", additional_info = "Instantâneo\n(Chance de ativar:35%, 30s de recarga)"}
-MultiLanguageSpellData['pt'][1224924] = {name = "Summon Defender", additional_info = "Instantâneo\n[q]Summon a Wyrmrest Defender."}
-MultiLanguageSpellData['pt'][1224925] = {name = "Gift of the Red Dragonflight", additional_info = nil}
-MultiLanguageSpellData['pt'][1224926] = {name = "Gift of the Red Dragonflight", additional_info = "Alcance ilimitado\nInstantâneo\n(1s de recarga)"}
-MultiLanguageSpellData['pt'][1224927] = {name = "Gift of the Bronze Dragonflight", additional_info = nil}
-MultiLanguageSpellData['pt'][1224928] = {name = "Gift of the Bronze Dragonflight", additional_info = "Alcance ilimitado\nInstantâneo\n(1s de recarga)"}
-MultiLanguageSpellData['pt'][1224929] = {name = "Gift of the Blue Dragonflight", additional_info = nil}
-MultiLanguageSpellData['pt'][1224930] = {name = "Gift of the Blue Dragonflight", additional_info = "Alcance ilimitado\nInstantâneo\n(1s de recarga)"}
-MultiLanguageSpellData['pt'][1224931] = {name = "Verdant Surge", additional_info = nil}
-MultiLanguageSpellData['pt'][1224932] = {name = "Gift of the Green Dragonflight", additional_info = "Alcance ilimitado\nInstantâneo\n(1s de recarga)"}
-MultiLanguageSpellData['pt'][1224933] = {name = "Verdant Restoration", additional_info = nil}
-MultiLanguageSpellData['pt'][1224934] = {name = "Sangue Chamejante de Shu'ma", additional_info = "Instantâneo\n[q]Infused with the Glowing Blood of the Old Gods.\n Attack speed increased 50%."}
+MultiLanguageSpellData['pt'][1224545] = {name = "Teleporte da Alma Dragônica Desligado", additional_info = "Instantâneo\n[q]A Alma Dragônica está desabilitada no RTP por enquanto."}
+MultiLanguageSpellData['pt'][1224920] = {name = "Protocolo Crepúsculo", additional_info = "Alcance ilimitado\n{Instantâneo} {1 min de recarga}"}
+MultiLanguageSpellData['pt'][1224921] = {name = "Protocolo Crepúsculo", additional_info = nil}
+MultiLanguageSpellData['pt'][1224922] = {name = "Protocolo Crepúsculo", additional_info = nil}
+MultiLanguageSpellData['pt'][1224923] = {name = "Loucura do Crepúsculo", additional_info = "Instantâneo\n(Chance de ativar:35%, 1.083min de recarga)"}
+MultiLanguageSpellData['pt'][1224924] = {name = "Evocar Defensor", additional_info = "Instantâneo\n[q]Evoca um Defensor do Repouso das Serpes."}
+MultiLanguageSpellData['pt'][1224925] = {name = "Dádiva da Revoada Dragônica Vermelha", additional_info = nil}
+MultiLanguageSpellData['pt'][1224926] = {name = "Dádiva da Revoada Dragônica Vermelha", additional_info = "Alcance ilimitado\nInstantâneo\n(1s de recarga)"}
+MultiLanguageSpellData['pt'][1224927] = {name = "Dádiva da Revoada Dragônica Bronze", additional_info = "Instantâneo\n(1s de recarga)"}
+MultiLanguageSpellData['pt'][1224928] = {name = "Dádiva da Revoada Dragônica Bronze", additional_info = "Alcance ilimitado\nInstantâneo\n(1s de recarga)"}
+MultiLanguageSpellData['pt'][1224929] = {name = "Dádiva da Revoada Dragônica Azul", additional_info = nil}
+MultiLanguageSpellData['pt'][1224930] = {name = "Dádiva da Revoada Dragônica Azul", additional_info = nil}
+MultiLanguageSpellData['pt'][1224931] = {name = "Surto Verdejante", additional_info = nil}
+MultiLanguageSpellData['pt'][1224932] = {name = "Dádiva da Revoada Dragônica Verde", additional_info = "Alcance ilimitado\nInstantâneo\n(1s de recarga)"}
+MultiLanguageSpellData['pt'][1224933] = {name = "Restauração Verdejante", additional_info = nil}
+MultiLanguageSpellData['pt'][1224934] = {name = "Sangue Chamejante de Shu'ma", additional_info = "Instantâneo\n[q]Imbuído no Sangue Chamejante dos Deuses Antigos.\n Velocidade de ataque aumentada em 25%."}
 MultiLanguageSpellData['pt'][1224935] = {name = "Vácuo de Mana", additional_info = "Alcance de 30m\nInstantâneo\n[q]Causa 0 de dano de Sombra a inimigos próximos."}
 MultiLanguageSpellData['pt'][1224936] = {name = "Sangue Calcinante", additional_info = "Alcance de 30m\n{Instantâneo} {3 seg de recarga}\n[q]Calcina o sangue de inimigos distantes aleatoriamente, causando mais dano de acordo com a distância em relação ao lançador."}
-MultiLanguageSpellData['pt'][1224937] = {name = "Parasita de Lava", additional_info = nil}
-MultiLanguageSpellData['pt'][1224938] = {name = "Pilar de Fogo", additional_info = "Alcance de 200m\nInstantâneo\n[q]Arremessa magma fervente contra um inimigo, causando 29250 to 30750 de dano e partindo o solo."}
-MultiLanguageSpellData['pt'][1224939] = {name = "Ácido Digestivo", additional_info = "Alcance ilimitado\nInstantâneo\n[q]Causa 30625 to 39375 de dano de Natureza ao alvo inimigo."}
+MultiLanguageSpellData['pt'][1224937] = {name = "Lacaios Corrompidos", additional_info = nil}
+MultiLanguageSpellData['pt'][1224938] = {name = "Lacaios Corrompidos", additional_info = "Alcance de 200m\nInstantâneo\n[q]Arremessa magma fervente contra um inimigo, causando 29250 to 30750 de dano e partindo o solo."}
+MultiLanguageSpellData['pt'][1224939] = {name = "Ácido Digestivo", additional_info = "Alcance ilimitado\nInstantâneo\n[q]Causa 15312 to 19688 de dano de Natureza ao alvo inimigo."}
 MultiLanguageSpellData['pt'][1224940] = {name = "Ácido Digestivo", additional_info = "Alcance ilimitado\nInstantâneo\n[q]Causa 67275 to 70725 de dano de Natureza ao alvo inimigo."}
-MultiLanguageSpellData['pt'][1224941] = {name = "Cuspe de Magma", additional_info = "Instantâneo"}
+MultiLanguageSpellData['pt'][1224941] = {name = "Ácido Digestivo", additional_info = "Instantâneo"}
 MultiLanguageSpellData['pt'][1224942] = {name = "Ácido Digestivo", additional_info = nil}
 MultiLanguageSpellData['pt'][1224943] = {name = "Ácido Digestivo", additional_info = "Alcance de 200m\nInstantâneo\n[q]Causa 0 de dano de Natureza a cada 5 s."}
 MultiLanguageSpellData['pt'][1224944] = {name = "Corrupção Profunda", additional_info = "Alcance de 150m\nInstantâneo\n[q]Causa 46250 to 53750 de dano a todos os aliados próximos."}
-MultiLanguageSpellData['pt'][1224945] = {name = "Corrupção Profunda", additional_info = "Alcance de 100m\nInstantâneo\n[q]Cura recebida ou absorção de efeitos irão ativar uma detonação ao acumularem 5 vezes."}
-MultiLanguageSpellData['pt'][1224946] = {name = "Corrupção Profunda", additional_info = "Alcance de 100m\nInstantâneo\n[q]Cura recebida ou absorção de efeitos irão ativar uma detonação ao acumularem 5 vezes."}
+MultiLanguageSpellData['pt'][1224945] = {name = "Corrupção Profunda", additional_info = "Alcance de 100m\nInstantâneo\n[q]Cura recebida ou absorção de efeitos ativarão uma detonação ao acumularem 5 vezes."}
+MultiLanguageSpellData['pt'][1224946] = {name = "Corrupção Profunda", additional_info = "Alcance de 100m\nInstantâneo\n[q]Cura recebida ou absorção de efeitos ativarão uma detonação ao acumularem 5 vezes."}
 MultiLanguageSpellData['pt'][1224947] = {name = "Corrupção Profunda", additional_info = nil}
 MultiLanguageSpellData['pt'][1224948] = {name = "Corrupção Profunda", additional_info = nil}
 MultiLanguageSpellData['pt'][1224949] = {name = "Corrupção Profunda", additional_info = nil}
-MultiLanguageSpellData['pt'][1224950] = {name = "Corrupção Profunda", additional_info = "Alcance de 150m\nInstantâneo\n[q]Causa 89725 to 104275 de dano a todos os aliados próximos."}
+MultiLanguageSpellData['pt'][1224950] = {name = "Corrupção Profunda", additional_info = "Alcance de 150m\nInstantâneo\n[q]Causa 23125 to 26875 de dano a todos os aliados próximos."}
 MultiLanguageSpellData['pt'][1224951] = {name = "Corrupção Profunda", additional_info = "Alcance de 100m\nInstantâneo\n[q]Cura recebida ou a absorção de efeitos ativará uma detonação ao acumular 5 vezes."}
-MultiLanguageSpellData['pt'][1224952] = {name = "Corrupção Profunda", additional_info = "Alcance de 100m\nInstantâneo\n[q]Cura recebida ou absorção de efeitos irão ativar uma detonação ao acumularem 5 vezes."}
+MultiLanguageSpellData['pt'][1224952] = {name = "Corrupção Profunda", additional_info = "Alcance de 100m\nInstantâneo\n[q]Cura recebida ou absorção de efeitos ativarão uma detonação ao acumularem 5 vezes."}
+MultiLanguageSpellData['pt'][1225871] = {name = "Dádiva da Revoada Dragônica Bronze", additional_info = nil}
+MultiLanguageSpellData['pt'][1225923] = {name = "Dádiva da Revoada Dragônica Azul", additional_info = nil}
+MultiLanguageSpellData['pt'][1226145] = {name = "Evocar Glóbulo Sombrio", additional_info = nil}
+MultiLanguageSpellData['pt'][1226146] = {name = "Conceder Sangue", additional_info = "Alcance de 100m\nInstantâneo\n[q]Concede o poder dos Deuses Antigos que está armazenado nos glóbulos de sangue."}
+MultiLanguageSpellData['pt'][1226147] = {name = "Evocar Glóbulo Carmesim", additional_info = nil}
+MultiLanguageSpellData['pt'][1226148] = {name = "Evocar Glóbulo Negro", additional_info = nil}
+MultiLanguageSpellData['pt'][1226149] = {name = "Evocar Glóbulo Ácido", additional_info = nil}
+MultiLanguageSpellData['pt'][1226150] = {name = "Evocar Glóbulo de Cobalto", additional_info = nil}
+MultiLanguageSpellData['pt'][1226151] = {name = "Evocar Glóbulo Brilhante", additional_info = nil}
+MultiLanguageSpellData['pt'][1226265] = {name = "Evocar Glóbulos", additional_info = nil}
+MultiLanguageSpellData['pt'][1226387] = {name = "Sangue Carmesim de Shu'ma", additional_info = "Instantâneo\n[q]Concede a habilidade: Sangue Calcinante."}
+MultiLanguageSpellData['pt'][1226408] = {name = "Sangue Sombrio de Shu'ma", additional_info = "Instantâneo\n[q]Concede a habilidade: Corrupção Profunda."}
+MultiLanguageSpellData['pt'][1226416] = {name = "Sangue de Cobalto de Shu'ma", additional_info = "Instantâneo\n[q]Concede a habilidade: Vácuo de Mana."}
+MultiLanguageSpellData['pt'][1226422] = {name = "Sangue Ácido de Shu'ma", additional_info = "Instantâneo\n[q]Concede a habilidade: Ácido Digestivo."}
+MultiLanguageSpellData['pt'][1226453] = {name = "Sangue Negro de Shu'ma", additional_info = "Instantâneo\n[q]Concede a habilidade: Lacaios Corrompidos."}
+MultiLanguageSpellData['pt'][1226484] = {name = "Evocar Defensor do Repouso das Serpes da Aliança", additional_info = nil}
+MultiLanguageSpellData['pt'][1226485] = {name = "Evocar Defensor do Repouso das Serpes da Horda", additional_info = nil}
+MultiLanguageSpellData['pt'][1226486] = {name = "Corte Psíquico", additional_info = "Alcance de 20m\n{0.6 seg de lançamento} {5 seg de recarga}\n[q]Canaliza uma onda de força psíquica contra um inimigo, causando 55770 to 58630 de dano de Sombra."}
+MultiLanguageSpellData['pt'][1227043] = {name = "Poder de Tempesfúria", additional_info = "Instantâneo\n[q]Reduz o dano causado.\n Reduz o total de pontos de vida."}
+MultiLanguageSpellData['pt'][1227044] = {name = "Poder de Tempesfúria", additional_info = nil}
+MultiLanguageSpellData['pt'][1227317] = {name = "Signet of the Wyrmrest Accord - Remove Item", additional_info = nil}
+MultiLanguageSpellData['pt'][1227448] = {name = "Prêmio de Justiça 250", additional_info = "Instantâneo\n[q]Concede 250 Pontos de Justiça a você."}
+MultiLanguageSpellData['pt'][1227450] = {name = "Shadowed Globule - Spawn Spell", additional_info = nil}
+MultiLanguageSpellData['pt'][1227589] = {name = "Cobalt Globule - Spawn Spell", additional_info = nil}
+MultiLanguageSpellData['pt'][1227594] = {name = "Glowing Globule - Spawn Spell", additional_info = nil}
+MultiLanguageSpellData['pt'][1227595] = {name = "Crimson Globule - Spawn Spell", additional_info = nil}
+MultiLanguageSpellData['pt'][1227598] = {name = "Dark Globule - Spawn Spell", additional_info = nil}
+MultiLanguageSpellData['pt'][1227599] = {name = "Acidic Globule - Spawn Spell", additional_info = nil}
