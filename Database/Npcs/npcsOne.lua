@@ -24414,7 +24414,7 @@ MultiLanguageNpcData['pt'][33695] = {name = "Bombardeiro Sectário", subname = n
 MultiLanguageNpcData['pt'][33696] = {name = "Arquimaga Rhydian", subname = nil}
 MultiLanguageNpcData['pt'][33697] = {name = "Raging Ancient Target", subname = nil}
 MultiLanguageNpcData['pt'][33698] = {name = "Pacificador Argênteo", subname = nil}
-MultiLanguageNpcData['pt'][33699] = {name = "Guardião Iracundo", subname = nil}
+MultiLanguageNpcData['pt'][33699] = {name = "Guardião Temperado na Tempestade", subname = nil}
 MultiLanguageNpcData['pt'][33701] = {name = "Alta-exploradora Dellorah", subname = "Liga dos Exploradores"}
 MultiLanguageNpcData['pt'][33704] = {name = "Abominação Frígida", subname = nil}
 MultiLanguageNpcData['pt'][33705] = {name = "Runa de Poder", subname = nil}
@@ -24433,7 +24433,7 @@ MultiLanguageNpcData['pt'][33718] = {name = "Consorte Bronze", subname = nil}
 MultiLanguageNpcData['pt'][33719] = {name = "Consorte Esmeralda", subname = nil}
 MultiLanguageNpcData['pt'][33720] = {name = "Consorte Obsidiano", subname = nil}
 MultiLanguageNpcData['pt'][33721] = {name = "Unidade de Projeção do Guardião do Folclore", subname = nil}
-MultiLanguageNpcData['pt'][33722] = {name = "Guardião Iracundo", subname = nil}
+MultiLanguageNpcData['pt'][33722] = {name = "Guardião Temperado na Tempestade", subname = nil}
 MultiLanguageNpcData['pt'][33725] = {name = "Thorim Trap Bunny", subname = nil}
 MultiLanguageNpcData['pt'][33726] = {name = "Demolidor Racha-osso", subname = nil}
 MultiLanguageNpcData['pt'][33727] = {name = "Anacoreta Buurq", subname = nil}
