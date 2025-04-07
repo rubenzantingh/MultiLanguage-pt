@@ -20562,3 +20562,4 @@ MultiLanguageSpellData['pt'][1227666] = {name = "Dádiva da Revoada Dragônica A
 MultiLanguageSpellData['pt'][1227909] = {name = "Protocolo Crepúsculo", additional_info = nil}
 MultiLanguageSpellData['pt'][1229476] = {name = "Vácuo de Mana", additional_info = "Instantâneo\n[q]100% de mana absorvido ao longo 5 s."}
 MultiLanguageSpellData['pt'][1230531] = {name = "Dádiva da Revoada Dragônica Azul", additional_info = nil}
+MultiLanguageSpellData['pt'][1231991] = {name = "Recarga Especial Criatura", additional_info = "Instantâneo"}
