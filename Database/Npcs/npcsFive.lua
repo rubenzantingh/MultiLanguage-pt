@@ -250,19 +250,10 @@ MultiLanguageNpcData['pt'][236058] = {name = "Vigia Du'una", subname = nil}
 MultiLanguageNpcData['pt'][236059] = {name = "Tripulante Brilhofuso", subname = nil}
 MultiLanguageNpcData['pt'][236060] = {name = "Tripulante Cortacano", subname = nil}
 MultiLanguageNpcData['pt'][236061] = {name = "Tripulante Giraleixos", subname = nil}
-MultiLanguageNpcData['pt'][236063] = {name = "KC", subname = nil}
-MultiLanguageNpcData['pt'][236064] = {name = "KC", subname = nil}
-MultiLanguageNpcData['pt'][236065] = {name = "KC", subname = nil}
-MultiLanguageNpcData['pt'][236066] = {name = "KC", subname = nil}
-MultiLanguageNpcData['pt'][236067] = {name = "KC", subname = nil}
-MultiLanguageNpcData['pt'][236068] = {name = "KC", subname = nil}
-MultiLanguageNpcData['pt'][236069] = {name = "KC", subname = nil}
-MultiLanguageNpcData['pt'][236070] = {name = "KC", subname = nil}
 MultiLanguageNpcData['pt'][236083] = {name = "Zek'ul Quebra-barco", subname = nil}
 MultiLanguageNpcData['pt'][236086] = {name = "Espreitador de Capanga", subname = nil}
 MultiLanguageNpcData['pt'][236090] = {name = "Localização do Salto do Capanga", subname = nil}
 MultiLanguageNpcData['pt'][236092] = {name = "Blacksmith Bob", subname = nil}
-MultiLanguageNpcData['pt'][236095] = {name = "KC", subname = nil}
 MultiLanguageNpcData['pt'][236098] = {name = "Comprador Indeciso", subname = nil}
 MultiLanguageNpcData['pt'][236105] = {name = "Vince Garralucro", subname = "Comerciante de Sucata"}
 MultiLanguageNpcData['pt'][236109] = {name = "Jane", subname = nil}
@@ -378,7 +369,7 @@ MultiLanguageNpcData['pt'][236892] = {name = "Caranguejo do Tesouro", subname = 
 MultiLanguageNpcData['pt'][236895] = {name = "Esbordoador com Defeito", subname = nil}
 MultiLanguageNpcData['pt'][236914] = {name = "Sangrinante", subname = nil}
 MultiLanguageNpcData['pt'][236915] = {name = "Segurança Sombrafuso", subname = nil}
-MultiLanguageNpcData['pt'][236916] = {name = "Feitor Dritz", subname = "Impositores Sombrafuso"}
+MultiLanguageNpcData['pt'][236916] = {name = "Feitor Dritz", subname = "Impositores de Sombrafuso"}
 MultiLanguageNpcData['pt'][236917] = {name = "Transportador de Aguanegra", subname = nil}
 MultiLanguageNpcData['pt'][236918] = {name = "Pibinho", subname = nil}
 MultiLanguageNpcData['pt'][236929] = {name = "Oufi", subname = nil}
@@ -548,7 +539,6 @@ MultiLanguageNpcData['pt'][237813] = {name = "Rosa", subname = "Assistente do Al
 MultiLanguageNpcData['pt'][237815] = {name = "Coletor de Migalhas", subname = nil}
 MultiLanguageNpcData['pt'][237816] = {name = "Naldo Rangechave", subname = nil}
 MultiLanguageNpcData['pt'][237817] = {name = "Nostwin", subname = "Tesouros Esquecidos e Perdidos no Tempo"}
-MultiLanguageNpcData['pt'][237838] = {name = "KC TP", subname = nil}
 MultiLanguageNpcData['pt'][237848] = {name = "Venture Co. Electrician", subname = nil}
 MultiLanguageNpcData['pt'][237880] = {name = "D.I.S.C.O.", subname = nil}
 MultiLanguageNpcData['pt'][237883] = {name = "Barraca do Mercado", subname = nil}
@@ -888,12 +878,10 @@ MultiLanguageNpcData['pt'][239419] = {name = "Monte Gasganete", subname = "Prín
 MultiLanguageNpcData['pt'][239435] = {name = "Capanga de Sombrafuso", subname = nil}
 MultiLanguageNpcData['pt'][239447] = {name = "Foguete de Festas", subname = nil}
 MultiLanguageNpcData['pt'][239450] = {name = "Foguete de Festas", subname = nil}
-MultiLanguageNpcData['pt'][239458] = {name = "KC", subname = nil}
 MultiLanguageNpcData['pt'][239463] = {name = "Seguro de Sombrafuso", subname = nil}
 MultiLanguageNpcData['pt'][239468] = {name = "Madame Gosu", subname = "Contato no Mercado Ilegal"}
 MultiLanguageNpcData['pt'][239554] = {name = "Hovel Hill Wholesaler", subname = nil}
 MultiLanguageNpcData['pt'][239567] = {name = "Tanque de Guerra de Gasganete", subname = "Rápido Como Quem Rouba"}
-MultiLanguageNpcData['pt'][239589] = {name = "KC", subname = nil}
 MultiLanguageNpcData['pt'][239607] = {name = "Bilgewater Local", subname = nil}
 MultiLanguageNpcData['pt'][239610] = {name = "Jãozinho Manda-muito", subname = "Cidade Alta"}
 MultiLanguageNpcData['pt'][239648] = {name = "Rei do Cromo Gallywix", subname = nil}
@@ -906,7 +894,7 @@ MultiLanguageNpcData['pt'][239717] = {name = "Croma Kodaka", subname = "Imprensa
 MultiLanguageNpcData['pt'][239718] = {name = "Lacaia da Empreendimentos", subname = nil}
 MultiLanguageNpcData['pt'][239762] = {name = "Gigabobinas", subname = nil}
 MultiLanguageNpcData['pt'][239796] = {name = "Cidadão Rebelde", subname = "Cartel Borraquilha"}
-MultiLanguageNpcData['pt'][239797] = {name = "Fustigador Sombrafuso", subname = "Fustigadora Sombrafuso"}
+MultiLanguageNpcData['pt'][239797] = {name = "Fustigador de Sombrafuso", subname = "Fustigadora de Sombrafuso"}
 MultiLanguageNpcData['pt'][239800] = {name = "Impositor Sombrafuso", subname = nil}
 MultiLanguageNpcData['pt'][239804] = {name = "Manutenção do Hotel", subname = nil}
 MultiLanguageNpcData['pt'][239833] = {name = "Elaena Brasalanz", subname = nil}

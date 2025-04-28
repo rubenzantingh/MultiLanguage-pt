@@ -39842,7 +39842,7 @@ MultiLanguageNpcData['pt'][166019] = {name = "Lumídia", subname = nil}
 MultiLanguageNpcData['pt'][166020] = {name = "Espreitador Invisível", subname = nil}
 MultiLanguageNpcData['pt'][166021] = {name = "Marcador de Trilha", subname = nil}
 MultiLanguageNpcData['pt'][166022] = {name = "Vulpin Desconfiado", subname = nil}
-MultiLanguageNpcData['pt'][166023] = {name = "Guia Símio do Labirinto", subname = nil}
+MultiLanguageNpcData['pt'][166023] = {name = "Guia Símio do Labirinto", subname = "Serei removido - chuif"}
 MultiLanguageNpcData['pt'][166024] = {name = "Runicervinho Arisco", subname = nil}
 MultiLanguageNpcData['pt'][166025] = {name = "Contrarregra", subname = "Companhia Teatral Luminastra"}
 MultiLanguageNpcData['pt'][166026] = {name = "Serviçal de Mueh'zala", subname = nil}
@@ -39890,7 +39890,7 @@ MultiLanguageNpcData['pt'][166069] = {name = "Reserva do Lorde dos Dízimos", su
 MultiLanguageNpcData['pt'][166070] = {name = "Roladinha", subname = "Estalajadeiro"}
 MultiLanguageNpcData['pt'][166071] = {name = "Coisa-ruim", subname = nil}
 MultiLanguageNpcData['pt'][166073] = {name = "Mariposão-de-ardena", subname = nil}
-MultiLanguageNpcData['pt'][166074] = {name = "Psuedo Lixo", subname = nil}
+MultiLanguageNpcData['pt'][166074] = {name = "Psuedo Lixo", subname = "Vou virar lixo, valeu?"}
 MultiLanguageNpcData['pt'][166075] = {name = "Mariposa-de-ardena Bitelasa", subname = nil}
 MultiLanguageNpcData['pt'][166076] = {name = "Kolsho Netts", subname = "Material Reaproveitado e Consertos"}
 MultiLanguageNpcData['pt'][166077] = {name = "Relicário das Almas", subname = nil}

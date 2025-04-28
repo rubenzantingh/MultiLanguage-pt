@@ -41171,7 +41171,6 @@ MultiLanguageNpcData['pt'][112441] = {name = "Roberto Moradanova", subname = "L�
 MultiLanguageNpcData['pt'][112442] = {name = "Caçador de Raposas Filho da Noite", subname = nil}
 MultiLanguageNpcData['pt'][112443] = {name = "Volpin", subname = "Raposa"}
 MultiLanguageNpcData['pt'][112444] = {name = "Rapinante-do-céu do Planalto", subname = nil}
-MultiLanguageNpcData['pt'][112445] = {name = "Joãozinho Manda-muito", subname = "Cidade Alta"}
 MultiLanguageNpcData['pt'][112446] = {name = "1% Credit", subname = nil}
 MultiLanguageNpcData['pt'][112447] = {name = "3% Credit", subname = nil}
 MultiLanguageNpcData['pt'][112448] = {name = "5% Credit", subname = nil}
