@@ -15,13 +15,6 @@ local function addLanguageOption()
         table.insert(MultiLanguageOptions.AVAILABLE_LANGUAGES, {value = 'pt', text = 'Portuguese'})
         AddLanguageDropdownOption()
     end
-
-    if MultiLanguageTranslations['pt'] == nil then
-        MultiLanguageTranslations['pt'] = {
-            description = "Descrição",
-            objectives = "Objetivos"
-        }
-    end
 end
 
 local function addonLoaded(self, event, addonLoadedName)
