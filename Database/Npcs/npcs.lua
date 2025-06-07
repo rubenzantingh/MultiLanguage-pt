@@ -9111,7 +9111,7 @@ MultiLanguageNpcData['pt'][15341] = {name = "General Rajaxx", subname = nil}
 MultiLanguageNpcData['pt'][15343] = {name = "Zanguarda Qiraji", subname = nil}
 MultiLanguageNpcData['pt'][15344] = {name = "Zanguarda Agulheira", subname = nil}
 MultiLanguageNpcData['pt'][15348] = {name = "Korinnaxx", subname = nil}
-MultiLanguageNpcData['pt'][15349] = {name = "RC Blimp", subname = nil}
+MultiLanguageNpcData['pt'][15349] = {name = "RC Blimp", subname = "PH"}
 MultiLanguageNpcData['pt'][15350] = {name = "Armipotente da Horda", subname = nil}
 MultiLanguageNpcData['pt'][15351] = {name = "General de Brigada da Aliança", subname = nil}
 MultiLanguageNpcData['pt'][15352] = {name = "Elemental Maior da Terra", subname = nil}
@@ -9126,7 +9126,7 @@ MultiLanguageNpcData['pt'][15360] = {name = "Murloquinho Verde", subname = nil}
 MultiLanguageNpcData['pt'][15361] = {name = "Murki", subname = nil}
 MultiLanguageNpcData['pt'][15362] = {name = "Malfurion Tempesfúria", subname = nil}
 MultiLanguageNpcData['pt'][15363] = {name = "Totem de Espírito", subname = nil}
-MultiLanguageNpcData['pt'][15364] = {name = "RC Mortar Tank", subname = nil}
+MultiLanguageNpcData['pt'][15364] = {name = "RC Mortar Tank", subname = "PH"}
 MultiLanguageNpcData['pt'][15366] = {name = "Filhote de Garrataque", subname = nil}
 MultiLanguageNpcData['pt'][15367] = {name = "Felendren, o Banido", subname = nil}
 MultiLanguageNpcData['pt'][15368] = {name = "Mina de Tonques", subname = nil}
@@ -11322,15 +11322,11 @@ MultiLanguageNpcData['pt'][17684] = {name = "Vindicante Boros", subname = "Triun
 MultiLanguageNpcData['pt'][17686] = {name = "Pesquisador Cornelius", subname = nil}
 MultiLanguageNpcData['pt'][17687] = {name = "Flecha Flamejante", subname = nil}
 MultiLanguageNpcData['pt'][17688] = {name = "Bagulho da Missão da Horda de Captura do Guarda da Coroa", subname = nil}
-MultiLanguageNpcData['pt'][17689] = {name = "Crown Guard Capture Quest Doodad", subname = nil}
-MultiLanguageNpcData['pt'][17690] = {name = "Eastwall Capture Quest Doodad", subname = nil}
 MultiLanguageNpcData['pt'][17691] = {name = "Bagulho da Missão da Horda de Captura da Muralha Leste", subname = nil}
 MultiLanguageNpcData['pt'][17693] = {name = "Batedor da Mão Despedaçada", subname = nil}
 MultiLanguageNpcData['pt'][17694] = {name = "Taumaturgo Lua Negra", subname = nil}
 MultiLanguageNpcData['pt'][17695] = {name = "Assassino da Mão Despedaçada", subname = nil}
-MultiLanguageNpcData['pt'][17696] = {name = "Northpass Capture Quest Doodad", subname = nil}
 MultiLanguageNpcData['pt'][17697] = {name = "Bagulho da Missão da Horda de Captura do Passo Norte", subname = nil}
-MultiLanguageNpcData['pt'][17698] = {name = "Plaguewood Capture Quest Doodad", subname = nil}
 MultiLanguageNpcData['pt'][17699] = {name = "Bagulho da Missão da Horda de Caputra da Mata Pestilenta", subname = nil}
 MultiLanguageNpcData['pt'][17700] = {name = "Vontade de Sargaras", subname = nil}
 MultiLanguageNpcData['pt'][17701] = {name = "Lorde Xiz", subname = nil}
@@ -15230,7 +15226,6 @@ MultiLanguageNpcData['pt'][22291] = {name = "Guarda da Fornalha", subname = nil}
 MultiLanguageNpcData['pt'][22292] = {name = "Rilak, o Redimido", subname = nil}
 MultiLanguageNpcData['pt'][22293] = {name = "Aníquilus Inativo", subname = nil}
 MultiLanguageNpcData['pt'][22295] = {name = "Autômato da Forja da Morte", subname = nil}
-MultiLanguageNpcData['pt'][22296] = {name = "Mystery Mask Summon Bunny", subname = nil}
 MultiLanguageNpcData['pt'][22297] = {name = "Grão-lorde dos Guarda-tronos", subname = nil}
 MultiLanguageNpcData['pt'][22298] = {name = "Alma-de-fogo Torpe", subname = nil}
 MultiLanguageNpcData['pt'][22299] = {name = "Pernalta Esporo", subname = nil}
@@ -28727,7 +28722,6 @@ MultiLanguageNpcData['pt'][51127] = {name = "Grifo Martelo Feroz", subname = nil
 MultiLanguageNpcData['pt'][51128] = {name = "Guarda Martelo Feroz", subname = nil}
 MultiLanguageNpcData['pt'][51130] = {name = "Trabalhador Presa do Dragão", subname = nil}
 MultiLanguageNpcData['pt'][51131] = {name = "Colonizador do Martelo Feroz", subname = nil}
-MultiLanguageNpcData['pt'][51137] = {name = "Horde Zeppelin Sound Bunny", subname = nil}
 MultiLanguageNpcData['pt'][51140] = {name = "Calen", subname = nil}
 MultiLanguageNpcData['pt'][51142] = {name = "Zebadinho", subname = "Biscoito"}
 MultiLanguageNpcData['pt'][51143] = {name = "Andarilho do Sol Jo'hsu", subname = nil}
