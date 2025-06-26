@@ -13519,7 +13519,6 @@ MultiLanguageNpcData['pt'][81124] = {name = "Prelada Minara", subname = nil}
 MultiLanguageNpcData['pt'][81125] = {name = "Vizzik Chispancada", subname = "Mecânico da Oficina"}
 MultiLanguageNpcData['pt'][81126] = {name = "Prelada Luari", subname = nil}
 MultiLanguageNpcData['pt'][81127] = {name = "Crédito de Abate da Missão \"Investigação da Horda de Ferro\"", subname = nil}
-MultiLanguageNpcData['pt'][81128] = {name = "Engenheiro Katranko", subname = nil}
 MultiLanguageNpcData['pt'][81129] = {name = "Guarda-Sabre da Lâmina Ardente", subname = nil}
 MultiLanguageNpcData['pt'][81130] = {name = "Arquimago Hadggar", subname = "Filhos de Lothar"}
 MultiLanguageNpcData['pt'][81131] = {name = "Tripulante Ferido", subname = nil}
