@@ -19602,7 +19602,6 @@ MultiLanguageNpcData['pt'][143083] = {name = "Rã Kala", subname = nil}
 MultiLanguageNpcData['pt'][143084] = {name = "Sapo Aglomerador", subname = nil}
 MultiLanguageNpcData['pt'][143085] = {name = "Naja Enrolada", subname = nil}
 MultiLanguageNpcData['pt'][143086] = {name = "Rastejante Cuspescuro", subname = nil}
-MultiLanguageNpcData['pt'][143087] = {name = "Rainha Naja", subname = nil}
 MultiLanguageNpcData['pt'][143088] = {name = "Açoitadeiro Pigmeu", subname = nil}
 MultiLanguageNpcData['pt'][143089] = {name = "Açoitadeira Folhagulha", subname = nil}
 MultiLanguageNpcData['pt'][143090] = {name = "Açoitadeira Pétala Venenosa", subname = nil}

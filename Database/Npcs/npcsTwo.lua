@@ -13519,6 +13519,7 @@ MultiLanguageNpcData['pt'][81124] = {name = "Prelada Minara", subname = nil}
 MultiLanguageNpcData['pt'][81125] = {name = "Vizzik Chispancada", subname = "Mecânico da Oficina"}
 MultiLanguageNpcData['pt'][81126] = {name = "Prelada Luari", subname = nil}
 MultiLanguageNpcData['pt'][81127] = {name = "Crédito de Abate da Missão \"Investigação da Horda de Ferro\"", subname = nil}
+MultiLanguageNpcData['pt'][81128] = {name = "Engenheiro Katranko", subname = nil}
 MultiLanguageNpcData['pt'][81129] = {name = "Guarda-Sabre da Lâmina Ardente", subname = nil}
 MultiLanguageNpcData['pt'][81130] = {name = "Arquimago Hadggar", subname = "Filhos de Lothar"}
 MultiLanguageNpcData['pt'][81131] = {name = "Tripulante Ferido", subname = nil}
@@ -18632,7 +18633,6 @@ MultiLanguageNpcData['pt'][86573] = {name = "Isme", subname = nil}
 MultiLanguageNpcData['pt'][86574] = {name = "Inventora Blammo", subname = nil}
 MultiLanguageNpcData['pt'][86575] = {name = "Batedora Jayciel", subname = nil}
 MultiLanguageNpcData['pt'][86576] = {name = "Kill Credit: Find Moonwillow Peak", subname = nil}
-MultiLanguageNpcData['pt'][86577] = {name = "Horgg", subname = nil}
 MultiLanguageNpcData['pt'][86578] = {name = "Artilheiro de Ferro", subname = nil}
 MultiLanguageNpcData['pt'][86579] = {name = "Mestre de Espadas Ro'gor", subname = nil}
 MultiLanguageNpcData['pt'][86580] = {name = "Imperador Mar'gok", subname = "Rei Feiticeiro"}

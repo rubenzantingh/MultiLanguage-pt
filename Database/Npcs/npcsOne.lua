@@ -19571,7 +19571,6 @@ MultiLanguageNpcData['pt'][27538] = {name = "Alvanel Fordragon", subname = nil}
 MultiLanguageNpcData['pt'][27539] = {name = "Necromante Frígido", subname = "Seita dos Malditos"}
 MultiLanguageNpcData['pt'][27540] = {name = "Atirador Perito de Fordragon", subname = nil}
 MultiLanguageNpcData['pt'][27541] = {name = "Zevra Veloz", subname = nil}
-MultiLanguageNpcData['pt'][27542] = {name = "Vigia Rubi", subname = nil}
 MultiLanguageNpcData['pt'][27543] = {name = "Socorrista de Fordragon", subname = nil}
 MultiLanguageNpcData['pt'][27544] = {name = "Capitão de Ventobravo", subname = nil}
 MultiLanguageNpcData['pt'][27545] = {name = "Katia", subname = nil}
