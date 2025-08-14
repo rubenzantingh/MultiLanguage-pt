@@ -18633,6 +18633,7 @@ MultiLanguageNpcData['pt'][86573] = {name = "Isme", subname = nil}
 MultiLanguageNpcData['pt'][86574] = {name = "Inventora Blammo", subname = nil}
 MultiLanguageNpcData['pt'][86575] = {name = "Batedora Jayciel", subname = nil}
 MultiLanguageNpcData['pt'][86576] = {name = "Kill Credit: Find Moonwillow Peak", subname = nil}
+MultiLanguageNpcData['pt'][86577] = {name = "Horgg", subname = nil}
 MultiLanguageNpcData['pt'][86578] = {name = "Artilheiro de Ferro", subname = nil}
 MultiLanguageNpcData['pt'][86579] = {name = "Mestre de Espadas Ro'gor", subname = nil}
 MultiLanguageNpcData['pt'][86580] = {name = "Imperador Mar'gok", subname = "Rei Feiticeiro"}
@@ -23830,7 +23831,7 @@ MultiLanguageNpcData['pt'][92865] = {name = "Precursor da Aurora Argêntea", sub
 MultiLanguageNpcData['pt'][92866] = {name = "Precursor da Aurora Argêntea", subname = nil}
 MultiLanguageNpcData['pt'][92867] = {name = "Restos de Tuscorrível Apodrecido", subname = nil}
 MultiLanguageNpcData['pt'][92868] = {name = "Broto de Arvoroso", subname = nil}
-MultiLanguageNpcData['pt'][92870] = {name = "Fúria de Sindragosa", subname = nil}
+MultiLanguageNpcData['pt'][92870] = {name = "Fúria da Serpe Gélida", subname = nil}
 MultiLanguageNpcData['pt'][92871] = {name = "Boquilha de Táxi de Ysera", subname = nil}
 MultiLanguageNpcData['pt'][92872] = {name = "Espírito", subname = nil}
 MultiLanguageNpcData['pt'][92873] = {name = "Torce-almas Devoto Vil", subname = nil}
