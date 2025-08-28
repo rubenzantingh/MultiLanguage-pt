@@ -7116,7 +7116,7 @@ MultiLanguageNpcData['pt'][129318] = {name = "Caranguejo Pateareia", subname = n
 MultiLanguageNpcData['pt'][129319] = {name = "Guarda-lâmina Tarkaj", subname = nil}
 MultiLanguageNpcData['pt'][129320] = {name = "Galinha do Canal da Pérola (Tempestade)", subname = nil}
 MultiLanguageNpcData['pt'][129321] = {name = "Galinha do Canal da Pérola (Correnteza)", subname = nil}
-MultiLanguageNpcData['pt'][129322] = {name = "Reposicionador de Vestuário Portátil", subname = nil}
+MultiLanguageNpcData['pt'][129322] = {name = "Reposicionador de Vestuário Portátil", subname = "Transmogrificador"}
 MultiLanguageNpcData['pt'][129323] = {name = "Imperatriz Sabretusco", subname = nil}
 MultiLanguageNpcData['pt'][129324] = {name = "Kill Credit: Revive Tarkaj", subname = nil}
 MultiLanguageNpcData['pt'][129325] = {name = "Kill Credit: Water Tarkaj", subname = nil}
@@ -28367,7 +28367,7 @@ MultiLanguageNpcData['pt'][153080] = {name = "Voz da Rainha", subname = "Guarda 
 MultiLanguageNpcData['pt'][153081] = {name = "Folião da CervaFest", subname = nil}
 MultiLanguageNpcData['pt'][153082] = {name = "Folião da CervaFest", subname = nil}
 MultiLanguageNpcData['pt'][153083] = {name = "Vethan do Coração Congelado", subname = nil}
-MultiLanguageNpcData['pt'][153084] = {name = "Arator, o Redentor", subname = nil}
+MultiLanguageNpcData['pt'][153084] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['pt'][153085] = {name = "Paladino Forjado a Luz", subname = nil}
 MultiLanguageNpcData['pt'][153086] = {name = "Sacerdote Guerreiro Forjado a Luz", subname = nil}
 MultiLanguageNpcData['pt'][153087] = {name = "Baluarte Forjado a Luz", subname = nil}

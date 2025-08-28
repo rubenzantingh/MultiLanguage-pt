@@ -10417,7 +10417,7 @@ MultiLanguageNpcData['pt'][16882] = {name = "Painel Numérico", subname = nil}
 MultiLanguageNpcData['pt'][16883] = {name = "Montaria de Silas", subname = nil}
 MultiLanguageNpcData['pt'][16884] = {name = "Cavalo de Guerra", subname = nil}
 MultiLanguageNpcData['pt'][16885] = {name = "Amithiel Andanévoa", subname = nil}
-MultiLanguageNpcData['pt'][16886] = {name = "Arator, o Redentor", subname = nil}
+MultiLanguageNpcData['pt'][16886] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['pt'][16887] = {name = "Olho da Fortaleza da Honra", subname = nil}
 MultiLanguageNpcData['pt'][16888] = {name = "Mauram Casco Robusto", subname = nil}
 MultiLanguageNpcData['pt'][16889] = {name = "Celebrante de Ventobravo", subname = nil}
@@ -40664,7 +40664,7 @@ MultiLanguageNpcData['pt'][54439] = {name = "Avatar de Rhyolith", subname = nil}
 MultiLanguageNpcData['pt'][54440] = {name = "Avatar de Shannox", subname = nil}
 MultiLanguageNpcData['pt'][54441] = {name = "Taumaturgo Vashreen", subname = "Reforjador Arcano"}
 MultiLanguageNpcData['pt'][54442] = {name = "Tecefendas Hashom", subname = "Transmogrificador"}
-MultiLanguageNpcData['pt'][54443] = {name = "Guarda-cofre Razhid", subname = "Cofre Etéreo"}
+MultiLanguageNpcData['pt'][54443] = {name = "Guarda-cofre Razhid", subname = nil}
 MultiLanguageNpcData['pt'][54444] = {name = "Gnoll da Feira de Negraluna", subname = nil}
 MultiLanguageNpcData['pt'][54445] = {name = "Eco de Jaina", subname = nil}
 MultiLanguageNpcData['pt'][54446] = {name = "Brasa do Núcleo Flamífero", subname = nil}
@@ -40675,7 +40675,7 @@ MultiLanguageNpcData['pt'][54466] = {name = "Gnoll da Feira de Negraluna - Bebê
 MultiLanguageNpcData['pt'][54467] = {name = "Ciclone", subname = nil}
 MultiLanguageNpcData['pt'][54470] = {name = "Imaginação do Anseio", subname = nil}
 MultiLanguageNpcData['pt'][54471] = {name = "Taumaturgo Zajir", subname = "Reforjador Arcano"}
-MultiLanguageNpcData['pt'][54472] = {name = "Guarda-cofre Jazra", subname = "Cofre Etéreo"}
+MultiLanguageNpcData['pt'][54472] = {name = "Guarda-cofre Jazra", subname = nil}
 MultiLanguageNpcData['pt'][54473] = {name = "Tecefendas Dushar", subname = "Transmogrificador"}
 MultiLanguageNpcData['pt'][54474] = {name = "Nevoeiro do Tempo", subname = nil}
 MultiLanguageNpcData['pt'][54475] = {name = "Caranguejo", subname = nil}
