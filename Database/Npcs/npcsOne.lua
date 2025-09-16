@@ -22800,7 +22800,6 @@ MultiLanguageNpcData['pt'][31409] = {name = "Posto do Mecânico de Bordo da Alia
 MultiLanguageNpcData['pt'][31411] = {name = "Terror Bruto", subname = nil}
 MultiLanguageNpcData['pt'][31412] = {name = "Thrall", subname = "Chefe Guerreiro"}
 MultiLanguageNpcData['pt'][31413] = {name = "Terror Bruto", subname = nil}
-MultiLanguageNpcData['pt'][31414] = {name = "Comando da Bastilha Valentia", subname = nil}
 MultiLanguageNpcData['pt'][31416] = {name = "Bruto de Orgrimmar", subname = nil}
 MultiLanguageNpcData['pt'][31417] = {name = "Elite Kor'kron", subname = nil}
 MultiLanguageNpcData['pt'][31418] = {name = "Grã-senhora Jaina Proudmore", subname = "Governante de Theramore"}
