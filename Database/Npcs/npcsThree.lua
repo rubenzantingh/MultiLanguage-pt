@@ -1,3 +1,4 @@
+MultiLanguageNpcData['pt'][120958] = {name = "Cavaleiro Vil Zorothiano", subname = nil}
 MultiLanguageNpcData['pt'][120959] = {name = "Nova Ordem de Serviço", subname = nil}
 MultiLanguageNpcData['pt'][120961] = {name = "Impacto Infernal", subname = nil}
 MultiLanguageNpcData['pt'][120962] = {name = "Cantamares Surtovil", subname = nil}
@@ -48564,4 +48565,3 @@ MultiLanguageNpcData['pt'][175413] = {name = "Fariscabrisa", subname = "Armeiro 
 MultiLanguageNpcData['pt'][175414] = {name = "Adera", subname = "Armeira Nathriana Normal"}
 MultiLanguageNpcData['pt'][175415] = {name = "Harkoth", subname = "Armeiro Nathriano Heroico"}
 MultiLanguageNpcData['pt'][175416] = {name = "Miggi", subname = nil}
-MultiLanguageNpcData['pt'][175417] = {name = "Sulanoom", subname = "Armeira Nathriana Mítica"}

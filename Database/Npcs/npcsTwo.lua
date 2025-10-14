@@ -1,3 +1,4 @@
+MultiLanguageNpcData['pt'][64753] = {name = "Suzy Náutica", subname = "Doma de Mascotes"}
 MultiLanguageNpcData['pt'][64754] = {name = "Jaynevento Patel", subname = "Doma de Mascotes"}
 MultiLanguageNpcData['pt'][64755] = {name = "Sharyn Folha-prata", subname = "Doma de Mascotes"}
 MultiLanguageNpcData['pt'][64756] = {name = "Chris Clarke", subname = nil}
@@ -24748,12 +24749,14 @@ MultiLanguageNpcData['pt'][93948] = {name = "Abelardo Barbachama", subname = nil
 MultiLanguageNpcData['pt'][93949] = {name = "Halahk, o Mortífero", subname = nil}
 MultiLanguageNpcData['pt'][93950] = {name = "Magroth, o Defensor", subname = nil}
 MultiLanguageNpcData['pt'][93951] = {name = "Gavinrad, o Cruel", subname = nil}
+MultiLanguageNpcData['pt'][93952] = {name = "Corvo Vil", subname = nil}
 MultiLanguageNpcData['pt'][93953] = {name = "Magus do Kirin Tor", subname = "Kirin Tor"}
 MultiLanguageNpcData['pt'][93954] = {name = "Abissal do Despertar", subname = nil}
 MultiLanguageNpcData['pt'][93955] = {name = "Fanático Iludido", subname = nil}
 MultiLanguageNpcData['pt'][93956] = {name = "Kill Credit: Check Farm 1", subname = nil}
 MultiLanguageNpcData['pt'][93957] = {name = "Kill Credit: Check Farm 2", subname = nil}
 MultiLanguageNpcData['pt'][93958] = {name = "Kill Credit: Check Farm 3", subname = nil}
+MultiLanguageNpcData['pt'][93959] = {name = "Genn Greymane", subname = nil}
 MultiLanguageNpcData['pt'][93960] = {name = "Comandante Lorna Crowley", subname = "Brigada de Guilnéas"}
 MultiLanguageNpcData['pt'][93961] = {name = "Worgen Rastreador", subname = "Brigada de Guilnéas"}
 MultiLanguageNpcData['pt'][93962] = {name = "Worgen Espreitador", subname = "Brigada de Guilnéas"}
@@ -48665,4 +48668,3 @@ MultiLanguageNpcData['pt'][120954] = {name = "Estandarte da Aliança", subname =
 MultiLanguageNpcData['pt'][120955] = {name = "Estandarte da Horda", subname = nil}
 MultiLanguageNpcData['pt'][120956] = {name = "Ídolo de Aviana Purificado", subname = nil}
 MultiLanguageNpcData['pt'][120957] = {name = "Desolation of the Moon Stalker", subname = nil}
-MultiLanguageNpcData['pt'][120958] = {name = "Cavaleiro Vil Zorothiano", subname = nil}
