@@ -27092,7 +27092,7 @@ MultiLanguageNpcData['pt'][96602] = {name = "Vindicante Corin", subname = nil}
 MultiLanguageNpcData['pt'][96603] = {name = "Justicar Julia Celeste", subname = nil}
 MultiLanguageNpcData['pt'][96604] = {name = "Jorad Mace", subname = nil}
 MultiLanguageNpcData['pt'][96605] = {name = "Leoric von Zeldig", subname = nil}
-MultiLanguageNpcData['pt'][96606] = {name = "Arator, o Redentor", subname = nil}
+MultiLanguageNpcData['pt'][96606] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['pt'][96608] = {name = "Worg Garra de Ébano", subname = nil}
 MultiLanguageNpcData['pt'][96609] = {name = "Cervo Pelo D'Ouro", subname = nil}
 MultiLanguageNpcData['pt'][96611] = {name = "Touro Casca da Fúria", subname = nil}
@@ -29346,13 +29346,13 @@ MultiLanguageNpcData['pt'][99228] = {name = "Kayn Solfúria", subname = "Illidar
 MultiLanguageNpcData['pt'][99229] = {name = "Altruis, o Sofredor", subname = "Illidari"}
 MultiLanguageNpcData['pt'][99230] = {name = "Morcevil Illidari", subname = nil}
 MultiLanguageNpcData['pt'][99232] = {name = "Defensor de Talrendis", subname = nil}
-MultiLanguageNpcData['pt'][99233] = {name = "Brasa", subname = nil}
+MultiLanguageNpcData['pt'][99233] = {name = "Brasa Viva", subname = nil}
 MultiLanguageNpcData['pt'][99234] = {name = "Erudita de Talrendis", subname = nil}
 MultiLanguageNpcData['pt'][99235] = {name = "Kill Credit: Bad Intentions", subname = nil}
 MultiLanguageNpcData['pt'][99236] = {name = "Sentinela de Talrendis", subname = nil}
 MultiLanguageNpcData['pt'][99237] = {name = "Mago Guardião do Pacto de Prata", subname = nil}
 MultiLanguageNpcData['pt'][99238] = {name = "Lançadora de Glaives de Talrendis", subname = nil}
-MultiLanguageNpcData['pt'][99240] = {name = "Contramedidas", subname = nil}
+MultiLanguageNpcData['pt'][99240] = {name = "Contenção Congelafundo", subname = nil}
 MultiLanguageNpcData['pt'][99241] = {name = "Comandante Jarrodenes", subname = nil}
 MultiLanguageNpcData['pt'][99242] = {name = "Sunken City BO - 5 Points", subname = nil}
 MultiLanguageNpcData['pt'][99244] = {name = "Hipogrifo Persegue-céus", subname = nil}
@@ -30044,7 +30044,7 @@ MultiLanguageNpcData['pt'][99993] = {name = "Xaxion Drak'eem", subname = nil}
 MultiLanguageNpcData['pt'][99994] = {name = "Jorad Mace", subname = nil}
 MultiLanguageNpcData['pt'][99995] = {name = "Justicar Julia Celeste", subname = nil}
 MultiLanguageNpcData['pt'][99996] = {name = "Leoric von Zeldig", subname = nil}
-MultiLanguageNpcData['pt'][99997] = {name = "Arator, o Redentor", subname = nil}
+MultiLanguageNpcData['pt'][99997] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['pt'][99998] = {name = "Grão-Cavaleiro Sangueroico", subname = nil}
 MultiLanguageNpcData['pt'][99999] = {name = "Lorde Solanar Furiassangue", subname = nil}
 MultiLanguageNpcData['pt'][100000] = {name = "Jãozinho Manda-mais-ainda", subname = nil}
@@ -39771,7 +39771,7 @@ MultiLanguageNpcData['pt'][110976] = {name = "Espreitador Escolhido", subname = 
 MultiLanguageNpcData['pt'][110977] = {name = "Sacerdotisa do Conclave Ferida", subname = nil}
 MultiLanguageNpcData['pt'][110978] = {name = "Sacerdotisa do Conclave Caída", subname = nil}
 MultiLanguageNpcData['pt'][110979] = {name = "Cavaleiro do Punho de Prata Preso", subname = nil}
-MultiLanguageNpcData['pt'][110980] = {name = "Arator, o Redentor", subname = nil}
+MultiLanguageNpcData['pt'][110980] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['pt'][110981] = {name = "Lula do Inferno Ripa-carne", subname = nil}
 MultiLanguageNpcData['pt'][110982] = {name = "Caixote Suspeito", subname = nil}
 MultiLanguageNpcData['pt'][110983] = {name = "Talixae Chamarco Natalina", subname = "A Emissária"}
@@ -40046,7 +40046,7 @@ MultiLanguageNpcData['pt'][111261] = {name = "Malfurion Tempesfúria", subname =
 MultiLanguageNpcData['pt'][111262] = {name = "Ag'tor Punho de Sangue", subname = nil}
 MultiLanguageNpcData['pt'][111263] = {name = "Tur Patafúria", subname = nil}
 MultiLanguageNpcData['pt'][111264] = {name = "Profeta Velen", subname = nil}
-MultiLanguageNpcData['pt'][111265] = {name = "Arator, o Redentor", subname = nil}
+MultiLanguageNpcData['pt'][111265] = {name = "Arator", subname = nil}
 MultiLanguageNpcData['pt'][111266] = {name = "Justicar Julia Celeste", subname = nil}
 MultiLanguageNpcData['pt'][111267] = {name = "Vindicante Boros", subname = "Triunvirato da Mão"}
 MultiLanguageNpcData['pt'][111268] = {name = "Aponi Crina Clara", subname = "Chefe Andarilha do Sol"}
