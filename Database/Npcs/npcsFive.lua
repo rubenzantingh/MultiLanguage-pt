@@ -4667,6 +4667,7 @@ MultiLanguageNpcData['pt'][254092] = {name = "Eternus", subname = nil}
 MultiLanguageNpcData['pt'][254093] = {name = "Eternus", subname = nil}
 MultiLanguageNpcData['pt'][254164] = {name = "Jato d'Água", subname = nil}
 MultiLanguageNpcData['pt'][254369] = {name = "Controlador", subname = nil}
+MultiLanguageNpcData['pt'][256938] = {name = "Serviçal Aprimorado de Hadggar", subname = nil}
 MultiLanguageNpcData['pt'][257023] = {name = "Hiena", subname = nil}
 MultiLanguageNpcData['pt'][257026] = {name = "Fenoceronte", subname = nil}
 MultiLanguageNpcData['pt'][257031] = {name = "Canisvil", subname = nil}
