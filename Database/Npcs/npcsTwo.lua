@@ -4,8 +4,11 @@ MultiLanguageNpcData['pt'][64976] = {name = "Brownie", subname = "Mascote de Rol
 MultiLanguageNpcData['pt'][64977] = {name = "Serpente das Nuvens de Ônix", subname = nil}
 MultiLanguageNpcData['pt'][64980] = {name = "Sábio Erudito Lianji", subname = "Treinamento de Monges - Mestre Serpente"}
 MultiLanguageNpcData['pt'][64981] = {name = "Serpente das Nuvens Carmesim", subname = nil}
+MultiLanguageNpcData['pt'][64986] = {name = "Serpente das Nuvens de Ônix Celestial", subname = nil}
 MultiLanguageNpcData['pt'][65003] = {name = "Martar, o Não Tão Esperto", subname = nil}
 MultiLanguageNpcData['pt'][65008] = {name = "Monge Huojin", subname = nil}
+MultiLanguageNpcData['pt'][65010] = {name = "Garça da Selva de Montaria", subname = nil}
+MultiLanguageNpcData['pt'][65016] = {name = "Iaque de Montaria Castanho", subname = nil}
 MultiLanguageNpcData['pt'][65035] = {name = "Lírio de Verão", subname = nil}
 MultiLanguageNpcData['pt'][65037] = {name = "Moldárvores Shu", subname = nil}
 MultiLanguageNpcData['pt'][65039] = {name = "Eng Arado Sujo", subname = nil}
@@ -585,6 +588,7 @@ MultiLanguageNpcData['pt'][66844] = {name = "Novato Chuang", subname = "Monge Gu
 MultiLanguageNpcData['pt'][66845] = {name = "Sargento Gorrok", subname = nil}
 MultiLanguageNpcData['pt'][66847] = {name = "Shokia", subname = nil}
 MultiLanguageNpcData['pt'][66848] = {name = "Ellie Pata de Mel", subname = nil}
+MultiLanguageNpcData['pt'][66850] = {name = "Guardião Milenar", subname = nil}
 MultiLanguageNpcData['pt'][66853] = {name = "Kai-Lin Orvalho de Mel", subname = nil}
 MultiLanguageNpcData['pt'][66854] = {name = "Novato Chuang", subname = "Monge Guia"}
 MultiLanguageNpcData['pt'][66855] = {name = "Rell Ventonegro", subname = "AVIN"}
@@ -629,6 +633,7 @@ MultiLanguageNpcData['pt'][66933] = {name = "Kishak", subname = "Filho de Kril'm
 MultiLanguageNpcData['pt'][66934] = {name = "Damlak", subname = "Servo de Kril'mandar"}
 MultiLanguageNpcData['pt'][66937] = {name = "Akkalar", subname = "Protetor de Kril'mandar"}
 MultiLanguageNpcData['pt'][66938] = {name = "Odd'nirok", subname = "Vidente de Kril'mandar"}
+MultiLanguageNpcData['pt'][66941] = {name = "Jorro d'Água", subname = nil}
 MultiLanguageNpcData['pt'][66942] = {name = "Fantasma do Sha", subname = nil}
 MultiLanguageNpcData['pt'][66943] = {name = "Estátua de Serpente", subname = nil}
 MultiLanguageNpcData['pt'][66946] = {name = "Mastro de Equilíbrio", subname = nil}
@@ -770,6 +775,8 @@ MultiLanguageNpcData['pt'][68005] = {name = "O Senhor da Guerra de Jade", subnam
 MultiLanguageNpcData['pt'][68018] = {name = "Jubeka Quebrassombra", subname = "Mestre Demonologista"}
 MultiLanguageNpcData['pt'][68019] = {name = "Kanrethad Ebanez", subname = "Líder da Colheita Negra"}
 MultiLanguageNpcData['pt'][68025] = {name = "Thrall", subname = nil}
+MultiLanguageNpcData['pt'][68026] = {name = "Duende do Monte", subname = nil}
+MultiLanguageNpcData['pt'][68027] = {name = "Espinho Sinistro", subname = nil}
 MultiLanguageNpcData['pt'][68038] = {name = "Aggra", subname = nil}
 MultiLanguageNpcData['pt'][68052] = {name = "Cidadão Fendessol", subname = "Cidadã Fendessol"}
 MultiLanguageNpcData['pt'][68059] = {name = "Thrall", subname = nil}
@@ -878,6 +885,7 @@ MultiLanguageNpcData['pt'][68966] = {name = "Grã-senhora Jaina Proudmore", subn
 MultiLanguageNpcData['pt'][68970] = {name = "Vol'jin", subname = nil}
 MultiLanguageNpcData['pt'][68972] = {name = "Grã-senhora Jaina Proudmore", subname = "Líder do Kirin Tor"}
 MultiLanguageNpcData['pt'][68978] = {name = "Refugiado Fendessol", subname = "Refugiada Fendessol"}
+MultiLanguageNpcData['pt'][68981] = {name = "Vinculador do Caos Shadzor", subname = "Aprimorar Item"}
 MultiLanguageNpcData['pt'][68984] = {name = "Ruben Holen", subname = "A Traça"}
 MultiLanguageNpcData['pt'][68986] = {name = "Li, a Domadora", subname = "Mestre de Estábulo"}
 MultiLanguageNpcData['pt'][69018] = {name = "Totally Generic Bunny (JSB)", subname = nil}
@@ -1321,3 +1329,4 @@ MultiLanguageNpcData['pt'][248115] = {name = "Grânulo Celestial", subname = nil
 MultiLanguageNpcData['pt'][248545] = {name = "Saquetauro Mestre", subname = "Saque de Raide de Pandária Heroico"}
 MultiLanguageNpcData['pt'][248552] = {name = "Saquetauro Ninja", subname = "Saque de Raide de Pandária Normal"}
 MultiLanguageNpcData['pt'][253198] = {name = "Arquíncubo", subname = nil}
+MultiLanguageNpcData['pt'][255994] = {name = "Réplica de Exodar", subname = nil}
